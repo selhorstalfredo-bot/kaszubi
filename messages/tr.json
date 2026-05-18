@@ -1,0 +1,205 @@
+{
+  "Navigation": {
+    "home": "Anasayfa",
+    "portfolio": "Portföy",
+    "about": "Hakkımda",
+    "contact": "İletişim",
+    "quickQuote": "Hızlı Teklif",
+    "changeLanguage": "Dili Değiştir"
+  },
+  "Hero": {
+    "title": "Profesyonel Seslendirme Sanatçısı",
+    "subtitle": "Metinlerinize duygu ve netlikle hayat veriyorum.",
+    "cta": "Demolarımı Dinle"
+  },
+  "Portfolio": {
+    "commercial": "Reklamlar",
+    "narration": "Anlatım",
+    "character": "Karakter / Animasyon",
+    "audiobook": "Sesli Kitaplar",
+    "listenNow": "Şimdi Dinle",
+    "badge": "PORTFÖY",
+    "title": "Seçilmiş Çalışmalar",
+    "version": "SÜRÜM:",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "voiceLabel": "Ses",
+    "micLabel": "Kaydedildi",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – Honkai Star Rail",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "Amaç, bir kumarbazın karizmasını, küstahlığını ve eksantrikliğini yansıtmaktı. Orijinalin aksine (gizemli ve monoton), karaktere daha fazla yaşam ve kişilik kazandırıldı.",
+        "voice": "Doğal",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – Zenless Zone Zero",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "90'ların süper kahraman dizilerine göndermeler içeren abartılı komedi sahnesi. Hiper-ekspresif karakterin \"havalı\" karakterini koruyarak maksimum pozitif duygu.",
+        "voice": "Doğal / Yüksek",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – Cyberpunk: Edgerunners",
+        "demoType": "Oyunculuk Demosu – Diyalog",
+        "desc": "Karakterler arasında güçlü gerilim — birinin sinirli şaşkınlığı diğerinin alaycılığı ve üstünlüğüne karşı. Tipik dublaj yerine sinematik ve doğal bir üslupla kaydedildi.",
+        "voice": "Doğal / Yüksek / Fry",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Bay Stark – Yenilmezler: Sonsuzluk Savaşı",
+        "demoType": "Oyunculuk Demosu – Canlı Aksiyon",
+        "desc": "Zorlu bir duygu dengesi — ne aşırı abartılı ne de katı. Film ortamına özgü mikro ifadelere özel önem verildi.",
+        "voice": "Doğal",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – One Piece Canlı Aksiyon",
+        "demoType": "Oyunculuk Demosu – Canlı Aksiyon",
+        "desc": "İlk yarı — kahraman ne hissettiğini hâlâ saklıyormuş gibi ince ve hassas bir duygu aktarımı. İkinci yarı — daha doğrudan, samimi duygular ve düşüncelerle dolu.",
+        "voice": "Doğal / Alçak Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "Chainsaw Man – Chainsaw Man",
+        "demoType": "Oyunculuk Demosu – Anime Karakteri",
+        "desc": "Aşırı duyguları aktaran üç modülasyonu sergileyen sahne: heyecan, motivasyon ve şaşkınlık. Yazarın her karakteri canlandırırken çok eğlendiği çılgın bir performans.",
+        "voice": "Doğal / Fry / Yüksek Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "Daredevil – Marvel Rivals",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "İlham kaynağı karakterin İngilizce seslendirme sanatçısıydı — Aleks Le. Meydan okuma, ses modülasyonu ve Daredevil'in repliklerine hak ettikleri gücü vermekti.",
+        "voice": "Alçak Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "Transformers One – Transformers One",
+        "demoType": "Oyunculuk Demosu – Animasyon",
+        "desc": "Film daha genç bir izleyici kitlesine yönelik olsa da öncelik duygusal derinlikti — modülasyon değil. Seste öfke, hayal kırıklığı, endişe, üzüntü ve bir tutam umut duyulabilir.",
+        "voice": "Doğal / Alçak Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "Kalbe yakın bir karakter — fandublaj kariyerinin başında ilk kez kaydedildi. Yeniden kayıt, kısa sürede belirgin ilerlemeyi ortaya koyuyor. Daha iyi karakter analizi, daha iyi bir performans sağladı.",
+        "voice": "Doğal / Yüksek",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "PROJE DETAYLARI"
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "name": "Your Name",
+    "email": "Your Email",
+    "projectType": "Project Type",
+    "typeCommercial": "Commercial",
+    "typeDubbing": "Dubbing",
+    "typeOther": "Other",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "Equipment": {
+    "title": "Stüdyo Ekipmanları",
+    "subtitle": "Yayın kalitesinde ses için profesyonel donanım.",
+    "mic": "Mikrofon",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "Ses Arabirimi",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "DAW",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "Akustik Kabin",
+    "cabinDesc": "Profesyonel ses yalıtımlı kabin",
+    "scrollHint": "Daha fazlası için kaydırın"
+  },
+  "Player": {
+    "play": "Oynat",
+    "pause": "Duraklat",
+    "switchLanguage": "Dili Değiştir",
+    "pl": "Lehçe",
+    "en": "İngilizce",
+    "mute": "Sesi Kapat",
+    "unmute": "Sesi Aç",
+    "demoTitle": "Voice Sample",
+    "demoSubtitle": "Listen to a sample"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Resmi profilim ve önemli rollerim.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Kamera arkası ve günlük güncellemeler.",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Video portföyleri, tanıtım videoları ve daha fazlası.",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Profesyonel bağlantılar ve özgeçmiş."
+  },
+  "DirectContact": {
+    "badge": "Contact",
+    "title": "Let's Talk",
+    "subtitle": "Describe your project and I'll get back to you as soon as possible.",
+    "copyEmail": "Copy email address",
+    "copied": "Copied!",
+    "whatsapp": "Message on WhatsApp",
+    "namePlaceholder": "Full Name",
+    "emailPlaceholder": "Email Address",
+    "messagePlaceholder": "Describe your project...",
+    "projectTypePlaceholder": "Select project type",
+    "typeCommercial": "Commercial / Ad Spot",
+    "typeDubbing": "Dubbing / Lip Sync",
+    "typeNarration": "Narration / Audiobook",
+    "typeAnimation": "Animation / Game",
+    "typeElearning": "E-learning / Training",
+    "typeOther": "Other",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "divider": "or",
+    "successTitle": "Message sent!",
+    "successDesc": "I'll get back to you as soon as possible.",
+    "successReset": "Send another message",
+    "errorTitle": "Something went wrong",
+    "errorDesc": "Please try again or reach out directly via email.",
+    "errorReset": "Try again"
+  },
+  "LogoTicker": {
+    "badge": "İşbirliği",
+    "title": "Bana Güvenen Markalar",
+    "description": "Bu markalarla çalışmaktan büyük mutluluk duydum\u00a0\u2014 her proje yeni bir hikaye anlatır."
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Tüm hakları saklıdır.",
+    "contactEmail": "İletişim E-postası",
+    "phone": "Telefon",
+    "backToTop": "Başa Dön",
+    "language": "Dil"
+  },
+  "SEO": {
+    "title": "Skryty | Profesyonel Seslendirme Sanatçısı",
+    "description": "Reklamlar, anlatımlar, karakter seslendirmesi ve sesli kitaplar için profesyonel seslendirme hizmetleri. Metinlerinize duygu ve netlikle hayat verin.",
+    "ogTitle": "Skryty - Seslendirme Portföyü"
+  },
+  "Error": {
+    "notFoundTitle": "Sayfa Bulunamadı",
+    "notFoundDesc": "Aradığınız sayfa bulunamadı.",
+    "errorTitle": "Bir şeyler yanlış gitti!",
+    "errorDesc": "Beklenmeyen bir hata oluştu.",
+    "backHome": "Ana Sayfaya Dön",
+    "tryAgain": "Tekrar Dene"
+  },
+  "AboutMe": {
+    "title": "Hakkımda",
+    "subtitle": "Atmosferin Arkasındaki Ses",
+    "description": "Karakterlere, markalara ve anlatımlara hayat verme konusunda uzmanlaşmış çok yönlü ve tutkulu bir seslendirme sanatçısıyım. Mikrofondaki yılların getirdiği tecrübeyle, tonumu sıcak ve sohbete dayalı bir tarzdan daha otoriter ve sinematik bir yapıya dönüştürebilen bir yetenek geliştirdim. Amacım basit: Senaryonuzun hedef kitlenizle yankı bulmasını sağlamak.",
+    "goalsTitle": "Misyonum",
+    "goalsDesc": "Her projeyi otantik duygu, kusursuz ses kalitesi ve işbirliği ruhuyla bir üst seviyeye taşımak.",
+    "trait1": "Profesyonel Stüdyo",
+    "trait2": "Hızlı Teslimat",
+    "trait3": "Çok Yönlü Ses Aralığı",
+    "trait4": "Yönetilebilir & İşbirlikçi"
+  }
+}

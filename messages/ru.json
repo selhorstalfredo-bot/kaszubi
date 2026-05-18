@@ -1,0 +1,205 @@
+{
+  "Navigation": {
+    "home": "Главная",
+    "portfolio": "Портфолио",
+    "about": "Обо мне",
+    "contact": "Контакты",
+    "quickQuote": "Быстрая оценка",
+    "changeLanguage": "Сменить язык"
+  },
+  "Hero": {
+    "title": "Профессиональный диктор",
+    "subtitle": "Оживляю ваши тексты с эмоциями и ясностью.",
+    "cta": "Слушать демо"
+  },
+  "Portfolio": {
+    "commercial": "Реклама",
+    "narration": "Декламация",
+    "character": "Персонажи / Анимация",
+    "audiobook": "Аудиокниги",
+    "listenNow": "Слушать сейчас",
+    "badge": "ПОРТФОЛИО",
+    "title": "Избранные работы",
+    "version": "ВЕРСИЯ:",
+    "prev": "Предыдущий",
+    "next": "Следующий",
+    "voiceLabel": "Голос",
+    "micLabel": "Записано на",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – Honkai Star Rail",
+        "demoType": "Актёрское демо – Персонаж игры",
+        "desc": "Цель — передать харизму, дерзость и эксцентричность игрока. В отличие от оригинала (таинственного и монотонного), в образ вдохнули больше жизни и характера.",
+        "voice": "Натуральный",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – Zenless Zone Zero",
+        "demoType": "Актёрское демо – Персонаж игры",
+        "desc": "Гротескная комедийная сцена, отсылающая к супергеройским сериалам в лайкре из 90-х. Максимум позитива при сохранении «крутого» характера гиперэкспрессивного персонажа.",
+        "voice": "Натуральный / Высокий",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – Cyberpunk: Edgerunners",
+        "demoType": "Актёрское демо – Диалог",
+        "desc": "Сильное напряжение между персонажами — растерянное смущение одного против насмешки и превосходства другого. Записано с упором на естественность в киностиле, без типичного дубляжа.",
+        "voice": "Натуральный / Высокий / Фрай",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Мистер Старк – Мстители: Война бесконечности",
+        "demoType": "Актёрское демо – Live Action",
+        "desc": "Сложный баланс эмоций — ни слишком театральный, ни слишком деревянный. Особое внимание уделялось микровыражениям, характерным для кинематографа.",
+        "voice": "Натуральный",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – One Piece Live Action",
+        "demoType": "Актёрское демо – Live Action",
+        "desc": "Первая половина — тонкая, нежная передача эмоций, словно герой всё ещё скрывает то, что чувствует. Вторая половина — более прямая, полная искренних чувств и размышлений.",
+        "voice": "Натуральный / Низкая модуляция",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "Chainsaw Man – Chainsaw Man",
+        "demoType": "Актёрское демо – Персонаж аниме",
+        "desc": "Сцена с тремя модуляциями, передающими крайние эмоции: азарт, мотивацию и удивление. Дикое выступление, от которого автор получил огромное удовольствие, воплощая каждого персонажа.",
+        "voice": "Натуральный / Фрай / Высокая модуляция",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "Daredevil – Marvel Rivals",
+        "demoType": "Актёрское демо – Персонаж игры",
+        "desc": "Вдохновением послужил английский актёр озвучки персонажа — Алекс Ле. Задача состояла в модуляции голоса и передаче репликам Сорвиголовы должной силы.",
+        "voice": "Низкая модуляция",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "Transformers One – Transformers One",
+        "demoType": "Актёрское демо – Анимация",
+        "desc": "Несмотря на то что фильм ориентирован на молодую аудиторию, приоритетом была эмоциональная глубина, а не модуляция. В голосе слышны ярость, разочарование, тревога, грусть и капля надежды.",
+        "voice": "Натуральный / Низкая модуляция",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "Актёрское демо – Персонаж игры",
+        "desc": "Персонаж, близкий сердцу — впервые записан в начале карьеры фандаббинга. Повторная запись показывает очевидный прогресс за короткое время. Лучший анализ персонажа позволил сыграть его ещё лучше.",
+        "voice": "Натуральный / Высокий",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "ДЕТАЛИ ПРОЕКТА"
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "name": "Your Name",
+    "email": "Your Email",
+    "projectType": "Project Type",
+    "typeCommercial": "Commercial",
+    "typeDubbing": "Dubbing",
+    "typeOther": "Other",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "Equipment": {
+    "title": "Студийное оборудование",
+    "subtitle": "Профессиональное оборудование для качественного звука.",
+    "mic": "Микрофон",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "Аудиоинтерфейс",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "DAW",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "Акустическая кабина",
+    "cabinDesc": "Профессиональная звукоизоляционная кабина",
+    "scrollHint": "Свайпните, чтобы увидеть больше"
+  },
+  "Player": {
+    "play": "Играть",
+    "pause": "Пауза",
+    "switchLanguage": "Сменить язык",
+    "pl": "Польский",
+    "en": "Английский",
+    "mute": "Отключить звук",
+    "unmute": "Включить звук",
+    "demoTitle": "Voice Sample",
+    "demoSubtitle": "Listen to a sample"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Мой официальный профиль и основные роли.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Закулисье и повседневные обновления.",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Видео портфолио, демо-ролики и многое другое.",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Профессиональные связи и резюме."
+  },
+  "DirectContact": {
+    "badge": "Contact",
+    "title": "Let's Talk",
+    "subtitle": "Describe your project and I'll get back to you as soon as possible.",
+    "copyEmail": "Copy email address",
+    "copied": "Copied!",
+    "whatsapp": "Message on WhatsApp",
+    "namePlaceholder": "Full Name",
+    "emailPlaceholder": "Email Address",
+    "messagePlaceholder": "Describe your project...",
+    "projectTypePlaceholder": "Select project type",
+    "typeCommercial": "Commercial / Ad Spot",
+    "typeDubbing": "Dubbing / Lip Sync",
+    "typeNarration": "Narration / Audiobook",
+    "typeAnimation": "Animation / Game",
+    "typeElearning": "E-learning / Training",
+    "typeOther": "Other",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "divider": "or",
+    "successTitle": "Message sent!",
+    "successDesc": "I'll get back to you as soon as possible.",
+    "successReset": "Send another message",
+    "errorTitle": "Something went wrong",
+    "errorDesc": "Please try again or reach out directly via email.",
+    "errorReset": "Try again"
+  },
+  "LogoTicker": {
+    "badge": "Сотрудничество",
+    "title": "Бренды, которые доверились мне",
+    "description": "Мне было приятно работать с этими брендами\u00a0\u2014 каждый проект — это новая история."
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Все права защищены.",
+    "contactEmail": "Контактный Email",
+    "phone": "Телефон",
+    "backToTop": "Наверх",
+    "language": "Язык"
+  },
+  "SEO": {
+    "title": "Skryty | Профессиональный диктор",
+    "description": "Профессиональные услуги диктора для рекламы, декламации, персонажей и аудиокниг. Оживляю ваши тексты с эмоциями и ясностью.",
+    "ogTitle": "Skryty - Портфолио диктора"
+  },
+  "Error": {
+    "notFoundTitle": "Страница не найдена",
+    "notFoundDesc": "Страница, которую вы ищете, не найдена.",
+    "errorTitle": "Что-то пошло не так!",
+    "errorDesc": "Произошла непредвиденная ошибка.",
+    "backHome": "На главную",
+    "tryAgain": "Попробовать снова"
+  },
+  "AboutMe": {
+    "title": "Обо мне",
+    "subtitle": "Голос, задающий настроение",
+    "description": "Я универсальный и увлеченный диктор, специализирующийся на оживлении персонажей, брендов и историй. За годы работы перед микрофоном я выработал способность, подобно хамелеону, адаптировать свой тон — от теплого и разговорного до авторитетного и кинематографичного. Моя цель проста: сделать так, чтобы ваш сценарий нашел отклик у аудитории, гарантируя, что каждое слово попадет в цель.",
+    "goalsTitle": "Моя миссия",
+    "goalsDesc": "Улучшить каждый проект с помощью искренних эмоций, безупречного качества звука и духа сотрудничества.",
+    "trait1": "Профессиональная студия",
+    "trait2": "Быстрое выполнение",
+    "trait3": "Широкий диапазон",
+    "trait4": "Готовность к сотрудничеству"
+  }
+}

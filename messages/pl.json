@@ -1,0 +1,231 @@
+{
+  "Navigation": {
+    "home": "Strona Główna",
+    "portfolio": "Portfolio",
+    "about": "O Mnie",
+    "contact": "Kontakt",
+    "quickQuote": "Szybka Wycena",
+    "changeLanguage": "Zmień język"
+  },
+  "Hero": {
+    "title": "Profesjonalny Aktor Głosowy",
+    "subtitle": "Michał \"SkrytyVA\" Kaszubowski",
+    "description": "A oto jak brzmię!",
+    "cta": "Posłuchaj moich Dem"
+  },
+  "Portfolio": {
+    "commercial": "Reklamy",
+    "narration": "Narracja",
+    "character": "Postacie / Animacja",
+    "audiobook": "Audiobooki",
+    "listenNow": "Posłuchaj",
+    "badge": "Portfolio Aktorskie",
+    "title": "Dema Wideo",
+    "version": "WERSJA:",
+    "prev": "Poprzednie",
+    "next": "Następne",
+    "voiceLabel": "Głos",
+    "micLabel": "Nagrywane na",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – Honkai Star Rail",
+        "demoType": "Demo Aktorskie – Postać z gry",
+        "desc": "Tą postacią jak najbardziej chcę oddać charyzmę, zawadiackość oraz ekscentryzm, jak na hazardzistę przystało! Mimo że oryginalna wersja językowa bardziej stawia na tajemniczy oraz monotonny głos, ja postanowiłem tchnąć w niego więcej życia oraz charakteru.",
+        "voice": "Naturalny",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – Zenless Zone Zero",
+        "demoType": "Demo Aktorskie – Postać z gry",
+        "desc": "Tym razem bardzo przerysowana komediowa scena emanująca spandeksowymi serialami superbohaterskimi z lat 90'tych. Tutaj przedstawiam maksimum pozytywnych emocji, jednak zachowuję także miejsce na trochę \"kozaka\" za jakiego uważa się odgrywana przeze mnie hiperekspresyjna postać!",
+        "voice": "Naturalny / Wysoki",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – Cyberpunk: Edgerunners",
+        "demoType": "Demo Aktorskie – Dialog",
+        "desc": "W tej scenie od samego początku aż do końca słychać silne napięcie pomiędzy bohaterami. Odzwierciedliłem zarówno zfrustrowane zakłopotanie jednego jak i szydercze zaczepki oraz wyższość drugiego. Podczas nagrywania nie traktowałem materiału z myślą o dubbingowaniu animacji — aby jeszcze lepiej oddać klimat sceny zależało mi na osiągnięciu naturalności w kinowym stylu.",
+        "voice": "Naturalny / Wysoki / Fry",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Mr. Stark – Avengers: Infinity War",
+        "demoType": "Demo Aktorskie – Live Action",
+        "desc": "Nie była to prosta scena — należało idealnie zbalansować wszystkie emocje, aby wydźwięk nie był zbyt przerysowany, ale również aby nie wydawał się zbyt sztywny. Biorąc pod uwagę medium jakim jest film aktorski, musiałem pamiętać także o wszystkich występujących mikroekspresjach.",
+        "voice": "Naturalny",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – One Piece Live Action",
+        "demoType": "Demo Aktorskie – Live Action",
+        "desc": "W pierwszej połowie najbardziej zależało mi na nakreśleniu w subtelny sposób wszystkich emocji bohatera. Bardzo delikatnie i czule przekazywałem słowa które wypowiadał, zupełnie tak jakby to co naprawdę czuje dalej próbował zachowywać dla siebie — a dopiero od drugiej połowy wszystkie wypowiedzi były bardziej dosłowne i miały za sobą nieść uczucia i szczere przemyślenia bohaterów.",
+        "voice": "Naturalny / Modulacja Niska",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "Chainsaw Man – Chainsaw Man",
+        "demoType": "Demo Aktorskie – Postać z anime",
+        "desc": "W tej scenie prezentuję trzy modulacje, każda przedstawiająca inne skrajne emocje — ekscytację, motywację oraz zdziwienie. Jest to dość \"odjazdowa\" scena, przy której realizacji świetnie się bawiłem, aby poprawnie wczuć się w postacie oraz oddać ich emocje i charakter!",
+        "voice": "Naturalny / Głos Fry / Modulacja Wysoka",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "Dare Devil – Marvel Rivals",
+        "demoType": "Demo Aktorskie – Postać z gry",
+        "desc": "Do zrealizowania tego fragmentu zainspirował mnie angielski aktor tej postaci Aleks Le. Postanowiłem podjąć się wyzwania zmodulowania głosu i włożenia całego serca (oraz płuc), aby nadać kwestiom postaci jaką jest Dare Devil mocy na jaką zasługują!",
+        "voice": "Modulacja Niska",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "Transformers One – Transformers One",
+        "demoType": "Demo Aktorskie – Animacja",
+        "desc": "Mimo iż film stworzony był z myślą o młodszych odbiorcach, nie oznacza to że głosy postaci w nim występujących nie zasługują na emocjonalną głębię. Moim priorytetem nie była modulacja — skupiłem się na emocjach. Chciałem jak najlepiej oddać konflikt między bohaterami i takim sposobem w moim głosie można usłyszeć wściekłość, frustrację, zmartwienie, smutek oraz szczyptę nadziei.",
+        "voice": "Naturalny / Modulacja Niska",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "Demo Aktorskie – Postać z gry",
+        "desc": "Mam sentyment do odgrywania tej postaci — pierwszy raz nagrałem go przy początkach mojej kariery fandubbingowej. Nagrywając go ponownie, czuję jakbym razem z nim dorósł. Widoczny jest postęp jaki zrobiłem w bardzo krótkim czasie. Najważniejsze to nie spoczywać na laurach i nieprzerwanie się uczyć. Dzięki trzymaniu się tej zasady byłem w stanie o wiele lepiej przeanalizować całą tę postać i odegrać go jeszcze lepiej!",
+        "voice": "Naturalny / Wysoki",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "SZCZEGÓŁY PROJEKTU"
+  },
+  "Contact": {
+    "title": "Skontaktuj się",
+    "name": "Twoje Imię",
+    "email": "Twój Email",
+    "projectType": "Rodzaj Projektu",
+    "typeCommercial": "Reklama",
+    "typeDubbing": "Dubbing",
+    "typeOther": "Inne",
+    "message": "Twoja Wiadomość",
+    "send": "Wyślij Wiadomość",
+    "success": "Wiadomość wysłana pomyślnie!",
+    "error": "Wystąpił błąd podczas wysyłania wiadomości. Spróbuj ponownie."
+  },
+  "Equipment": {
+    "title": "Sprzęt Studyjny",
+    "subtitle": "Profesjonalny sprzęt do nagrań o radiowej jakości.",
+    "mic": "Mikrofon",
+    "micDesc": "Rode NT1 5th Gen",
+    "interface": "Interfejs Audio",
+    "interfaceDesc": "Scarlett Solo 4th Gen",
+    "daw": "DAW",
+    "dawDesc": "Reaper Ver 7.44",
+    "scrollHint": "Przesuń, aby zobaczyć więcej"
+  },
+  "Player": {
+    "play": "Odtwórz",
+    "pause": "Pauza",
+    "switchLanguage": "Zmień język",
+    "pl": "Polski",
+    "en": "Angielski",
+    "mute": "Wycisz",
+    "unmute": "Wyłącz wyciszenie",
+    "demoTitle": "Przewodnik / Voice Sample",
+    "demoSubtitle": "Posłuchaj próbki"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Znajduje się na niej pełna lista oficjalnych profesjonalnych dubbingów w których występowałem.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Mój aktualnie najbardziej aktywny i popularny profil. Wstawiam na nim, własne dubbingi scenek oraz śmiesznych filmików. Czystko hobbystycznie, ponieważ w końcu dubbing to moja pasja!",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Na tym kanale można zobaczyć od jakich produkcji zaczynałem i i jak się zmieniały na przestrzeni lat. Obecnie okazyjnie można oglądać na moim kanale prowadzone przeze mnie transmisje na żywo z tworzenia samodzielnie amatorskich dubbingów od początku do samego końca, od tłumaczenia przez tworzenie ścieżki dźwiękowej aż po nagranie kwestii i realizację!",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Kontakty zawodowe i doświadczenie."
+  },
+  "DirectContact": {
+    "badge": "Kontakt",
+    "title": "Porozmawiajmy",
+    "subtitle": "Opisz swój projekt, a odezwę się tak szybko, jak to możliwe.",
+    "copyEmail": "Skopiuj adres e-mail",
+    "copied": "Skopiowano!",
+    "whatsapp": "Napisz na WhatsApp",
+    "namePlaceholder": "Imię i nazwisko",
+    "emailPlaceholder": "Adres e-mail",
+    "messagePlaceholder": "Opisz swój projekt...",
+    "projectTypePlaceholder": "Wybierz rodzaj projektu",
+    "typeCommercial": "Reklama / Spot reklamowy",
+    "typeDubbing": "Dubbing / Synchronizacja",
+    "typeNarration": "Narracja / Audiobook",
+    "typeAnimation": "Animacja / Gra",
+    "typeElearning": "E-learning / Szkolenie",
+    "typeOther": "Inne",
+    "sendButton": "Wyślij wiadomość",
+    "sending": "Wysyłanie...",
+    "divider": "lub",
+    "successTitle": "Wiadomość wysłana!",
+    "successDesc": "Odezwę się najszybciej jak to możliwe.",
+    "successReset": "Wyślij kolejną wiadomość",
+    "errorTitle": "Coś poszło nie tak",
+    "errorDesc": "Spróbuj ponownie lub napisz bezpośrednio na e-mail.",
+    "errorReset": "Spróbuj ponownie"
+  },
+  "LogoTicker": {
+    "badge": "Oficjalnie Produkcje",
+    "title": "A tutaj występowałem!",
+    "description": "Są to projekty, twórcy oraz studia w których mogłem oficjalnie udzielić głosu."
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Wszelkie prawa zastrzeżone.",
+    "contactEmail": "Adres E-mail",
+    "phone": "Telefon",
+    "backToTop": "Wróć do góry",
+    "language": "Język"
+  },
+  "SEO": {
+    "title": "Skryty | Profesjonalny Lektor",
+    "description": "Profesjonalne usługi lektorskie: reklamy, narracje, dubbing i audiobooki. Ożywiam Twoje teksty z emocją i klarownością.",
+    "ogTitle": "Skryty - Portfolio Lektorskie"
+  },
+  "Error": {
+    "notFoundTitle": "Nie znaleziono strony",
+    "notFoundDesc": "Strona, której szukasz, nie istnieje.",
+    "errorTitle": "Coś poszło nie tak!",
+    "errorDesc": "Wystąpił nieoczekiwany błąd.",
+    "backHome": "Wróć Na Główną",
+    "tryAgain": "Spróbuj Ponownie"
+  },
+  "AboutMe": {
+    "title": "O Mnie",
+    "subtitle": "Głos, który nadaje ton",
+    "description": "Jestem wszechstronnym i pełnym pasji aktorem głosowym, specjalizującym się w ożywianiu postaci, marek i narracji. Dzięki latom doświadczenia przed mikrofonem rozwinąłem umiejętność błyskawicznej adaptacji tonu — od ciepłego i konwersacyjnego po autorytatywny i kinowy. Mój cel jest prosty: sprawić, by Twój scenariusz trafił do odbiorców, upewniając się, że każde słowo wybrzmi idealnie.",
+    "goalsTitle": "Pracujmy Razem!",
+    "goalsDesc": "Jestem chętny do pracy przy oficjalnych, profesjonalnych dubbingach, ale także i projektach amatorskich.\nW zależności od projektu lub potrzeb jestem w stanie pracować nie tylko odpłatnie ale również za darmo.\nOferuję także darmowe wspólne sesje reżyserskie z klientem, zdalnie lub w studiu wybranym przez klienta.\nZapraszam śmiało do kontaktu, nie mogę doczekać się naszej współpracy!",
+    "trait1": "Profesjonalne Studio",
+    "trait2": "Szybka Realizacja",
+    "trait3": "Wszechstronny Głos",
+    "trait4": "Otwartość na Reżyserię"
+  },
+  "AudioDemos": {
+    "badge": "PORTFOLIO AKTORSKIE/LEKTORSKIE",
+    "title": "Dema Audio",
+    "subtitle": "Próbki bez wideo — czysty głos, czyste emocje.",
+    "demos": {
+      "acting": {
+        "type": "Demo Aktorskie",
+        "title": "Demo Aktorskie",
+        "desc": "Pełna paleta emocji — od subtelnego napięcia po intensywny dramatyzm. Głos dostosowany do potrzeb postaci i nastroju sceny."
+      },
+      "audiobook": {
+        "type": "Demo Lektorskie",
+        "title": "Demo Lektorskie",
+        "desc": "Ciepła, przekonująca barwa — głos, który przykuwa uwagę od pierwszej sekundy i sprawia, że marka zapada w pamięć."
+      },
+      "commercial1": {
+        "type": "Demo Reklamowe",
+        "title": "Demo Reklamowe",
+        "desc": "Energetyczna dynamika i precyzyjna dykcja. Stworzone z myślą o spotach wymagających tempa, ekspresji i wyrazistości."
+      },
+      "commercial2": {
+        "type": "Demo Reklamowe",
+        "title": "Demo Reklamowe 2",
+        "desc": "Energetyczna dynamika i precyzyjna dykcja. Stworzone z myślą o spotach wymagających tempa, ekspresji i wyrazistości."
+      }
+    }
+  }
+}

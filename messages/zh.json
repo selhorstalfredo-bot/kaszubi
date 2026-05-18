@@ -1,0 +1,205 @@
+{
+  "Navigation": {
+    "home": "首页",
+    "portfolio": "作品集",
+    "about": "关于我",
+    "contact": "联系方式",
+    "quickQuote": "快速报价",
+    "changeLanguage": "切换语言"
+  },
+  "Hero": {
+    "title": "专业配音演员",
+    "subtitle": "用情感与清晰度为您的剧本注入生命。",
+    "cta": "试听我的演示"
+  },
+  "Portfolio": {
+    "commercial": "商业广告",
+    "narration": "旁白叙述",
+    "character": "角色 / 动画",
+    "audiobook": "有声读物",
+    "listenNow": "立即收听",
+    "badge": "作品集",
+    "title": "精选作品",
+    "version": "版本:",
+    "prev": "上一个",
+    "next": "下一个",
+    "voiceLabel": "声线",
+    "micLabel": "录制设备",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – 崩坏：星穹铁道",
+        "demoType": "表演演示 – 游戏角色",
+        "desc": "目标是捕捉赌徒的魅力、大胆和怪癖。与原版（神秘而单调）不同，为角色注入了更多生命力和个性。",
+        "voice": "自然",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – 绝区零",
+        "demoType": "表演演示 – 游戏角色",
+        "desc": "一场充满夸张的喜剧场景，致敬90年代紧身衣超级英雄剧集。在保留超表情角色\"酷炫\"气质的同时，将正面情绪发挥到极致。",
+        "voice": "自然 / 高音",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – 赛博朋克：边缘行者",
+        "demoType": "表演演示 – 对话",
+        "desc": "角色之间的强烈张力——一方沮丧尴尬，另一方嘲讽高傲。以电影自然风格录制，而非传统配音方式。",
+        "voice": "自然 / 高音 / 气泡音",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Mr. Stark – 复仇者联盟：无限战争",
+        "demoType": "表演演示 – 真人影视",
+        "desc": "对情感的高难度把控——既不过于夸张，也不过于生硬。特别注重电影媒介特有的微表情呈现。",
+        "voice": "自然",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – 海贼王真人版",
+        "demoType": "表演演示 – 真人影视",
+        "desc": "前半段——情感传递细腻温柔，仿佛英雄还在掩藏内心感受。后半段——更加直接，充满真挚情感与内心独白。",
+        "voice": "自然 / 低音调制",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "电锯人 – 电锯人",
+        "demoType": "表演演示 – 动漫角色",
+        "desc": "呈现三种调制风格的场景，分别传达极端情绪：兴奋、动力与惊讶。作者在演绎每个角色时玩得不亦乐乎的疯狂演出。",
+        "voice": "自然 / 气泡音 / 高音调制",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "夜魔侠 – Marvel Rivals",
+        "demoType": "表演演示 – 游戏角色",
+        "desc": "灵感来自角色的英文配音演员——Aleks Le。挑战在于声线调制，以及为夜魔侠的台词赋予应有的力量。",
+        "voice": "低音调制",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "变形金刚：起源 – 变形金刚",
+        "demoType": "表演演示 – 动画",
+        "desc": "尽管影片面向年轻观众，但情感深度才是首要任务——而非调制。声音中蕴含愤怒、沮丧、担忧、悲伤与一丝希望。",
+        "voice": "自然 / 低音调制",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "表演演示 – 游戏角色",
+        "desc": "贴近内心的角色——首次录制于同人配音生涯的起点。再次录制清晰展示了短时间内的明显进步。更深入的角色分析使演绎更上一层楼。",
+        "voice": "自然 / 高音",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "项目详情"
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "name": "Your Name",
+    "email": "Your Email",
+    "projectType": "Project Type",
+    "typeCommercial": "Commercial",
+    "typeDubbing": "Dubbing",
+    "typeOther": "Other",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "Equipment": {
+    "title": "工作室设备",
+    "subtitle": "广播级音频的专业设备。",
+    "mic": "麦克风",
+    "micDesc": "Neumann U87 Ai",
+    "interface": "音频接口",
+    "interfaceDesc": "Universal Audio Apollo Twin X",
+    "daw": "数字音频工作站",
+    "dawDesc": "Pro Tools Studio",
+    "cabin": "隔音舱",
+    "cabinDesc": "专业隔音室",
+    "scrollHint": "滑动查看更多"
+  },
+  "Player": {
+    "play": "播放",
+    "pause": "暂停",
+    "switchLanguage": "切换语言",
+    "pl": "波兰语",
+    "en": "英语",
+    "mute": "静音",
+    "unmute": "取消静音",
+    "demoTitle": "Voice Sample",
+    "demoSubtitle": "Listen to a sample"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "配音百科",
+    "dubbingpediaDesc": "我的官方资料和主要角色。",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "幕后花絮和日常更新。",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "视频作品集、展示卷轴等。",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "专业人脉和简历。"
+  },
+  "DirectContact": {
+    "badge": "Contact",
+    "title": "Let's Talk",
+    "subtitle": "Describe your project and I'll get back to you as soon as possible.",
+    "copyEmail": "Copy email address",
+    "copied": "Copied!",
+    "whatsapp": "Message on WhatsApp",
+    "namePlaceholder": "Full Name",
+    "emailPlaceholder": "Email Address",
+    "messagePlaceholder": "Describe your project...",
+    "projectTypePlaceholder": "Select project type",
+    "typeCommercial": "Commercial / Ad Spot",
+    "typeDubbing": "Dubbing / Lip Sync",
+    "typeNarration": "Narration / Audiobook",
+    "typeAnimation": "Animation / Game",
+    "typeElearning": "E-learning / Training",
+    "typeOther": "Other",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "divider": "or",
+    "successTitle": "Message sent!",
+    "successDesc": "I'll get back to you as soon as possible.",
+    "successReset": "Send another message",
+    "errorTitle": "Something went wrong",
+    "errorDesc": "Please try again or reach out directly via email.",
+    "errorReset": "Try again"
+  },
+  "LogoTicker": {
+    "badge": "合作",
+    "title": "信任我的品牌",
+    "description": "我有幸与这些品牌合作\u00a0\u2014 每个项目都诉说着一段新的故事。"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA。保留所有权利。",
+    "contactEmail": "联系邮箱",
+    "phone": "电话",
+    "backToTop": "回到顶部",
+    "language": "语言"
+  },
+  "SEO": {
+    "title": "Skryty | 专业配音演员",
+    "description": "提供商业广告、旁白、角色扮演和有声读物的专业配音服务。用情感与清晰度为您的剧本注入生命。",
+    "ogTitle": "Skryty - 配音作品集"
+  },
+  "Error": {
+    "notFoundTitle": "页面未找到",
+    "notFoundDesc": "您寻找的页面不存在。",
+    "errorTitle": "出了点问题！",
+    "errorDesc": "发生意外错误。",
+    "backHome": "返回主页",
+    "tryAgain": "重试"
+  },
+  "AboutMe": {
+    "title": "关于我",
+    "subtitle": "氛围背后的声音",
+    "description": "我是一名多才多艺、充满激情的配音演员，擅长为角色、品牌和旁白注入生命。凭借在麦克风前多年的经验，我培养出了像变色龙一般适应各种语调的能力——从温暖和对话式的语气，到权威和电影般的表现。我的目标很简单：让您的剧本与目标观众产生共鸣，确保每一个字都切中要害。",
+    "goalsTitle": "我的使命",
+    "goalsDesc": "用真实的情感、纯净的音质和合作的精神，提升每一个项目的质量。",
+    "trait1": "专业工作室",
+    "trait2": "快速交付",
+    "trait3": "音域宽广",
+    "trait4": "善于合作与被指导"
+  }
+}
