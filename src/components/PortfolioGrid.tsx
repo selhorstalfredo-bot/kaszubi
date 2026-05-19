@@ -102,14 +102,14 @@ export default function PortfolioGrid() {
                     : "bg-primary/10 hover:bg-primary/20"
                   }`}
               >
-                <div className="flex flex-col h-full min-h-[220px]">
+                <div className="flex flex-col h-full min-h-[280px]">
                   <div
-                    className={`inline-flex items-center justify-center p-3 rounded-xl mb-4 transition-colors ${card.accent
-                        ? "bg-accent/20 text-accent shadow-[0_0_15px_hsla(var(--accent),0.3)]"
+                    className={`inline-flex items-center justify-center w-full rounded-2xl mb-5 py-7 transition-colors ${card.accent
+                        ? "bg-accent/20 text-accent shadow-[0_0_25px_hsla(var(--accent),0.25)]"
                         : "bg-white/5 text-foreground group-hover:bg-foreground group-hover:text-background"
                       }`}
                   >
-                    <Icon className="w-6 h-6" />
+                    <Icon className="w-10 h-10" />
                   </div>
                   <h3 className="text-xl font-black tracking-tight text-foreground mb-2">
                     {card.title}
