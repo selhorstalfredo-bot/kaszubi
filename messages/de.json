@@ -1,0 +1,232 @@
+{
+  "Navigation": {
+    "home": "Startseite",
+    "portfolio": "Portfolio",
+    "about": "Über mich",
+    "contact": "Kontakt",
+    "quickQuote": "Kurzes Angebot",
+    "changeLanguage": "Sprache wechseln"
+  },
+  "Hero": {
+    "title": "Professioneller Sprecher",
+    "subtitle": "Michał \"SkrytyVA\" Kaszubowski",
+    "description": "Und so klinge ich!",
+    "cta": "Hörproben anhören"
+  },
+  "Portfolio": {
+    "commercial": "Werbespots",
+    "narration": "Off-Stimme",
+    "character": "Charaktere / Animation",
+    "audiobook": "Hörbücher",
+    "listenNow": "Jetzt anhören",
+    "badge": "SCHAUSPIELPORTFOLIO",
+    "title": "Video-Demos",
+    "version": "VERSION:",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "voiceLabel": "Stimme",
+    "micLabel": "Aufgenommen mit",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – Honkai Star Rail",
+        "demoType": "Schauspiel-Demo – Spielcharakter",
+        "desc": "Das Ziel war, den Charme, die Dreistigkeit und die Exzentrizität des Spielers einzufangen. Im Gegensatz zum Original (geheimnisvoll und monoton) wurde der Figur mehr Leben und Charakter eingehaucht.",
+        "voice": "Natürlich",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – Zenless Zone Zero",
+        "demoType": "Schauspiel-Demo – Spielcharakter",
+        "desc": "Eine übertriebene Komödienszene, die an die Spandex-Superheldenserien der 90er erinnert. Maximale positive Energie bei vollem Erhalt des \"coolen\" Charakters der hyper-expressiven Figur.",
+        "voice": "Natürlich / Hoch",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – Cyberpunk: Edgerunners",
+        "demoType": "Schauspiel-Demo – Dialog",
+        "desc": "Starke Spannung zwischen den Charakteren – frustrierte Verlegenheit des einen vs. Spott und Überlegenheit des anderen. Mit natürlichem Kinospiel aufgenommen, nicht als typischer Dubbing-Auftritt.",
+        "voice": "Natürlich / Hoch / Fry",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Mr. Stark – Avengers: Infinity War",
+        "demoType": "Schauspiel-Demo – Live Action",
+        "desc": "Eine anspruchsvolle emotionale Balance – weder übertrieben noch steif. Besonderes Augenmerk auf die Mikroausdrücke, die für das Filmmedium typisch sind.",
+        "voice": "Natürlich",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – One Piece Live Action",
+        "demoType": "Schauspiel-Demo – Live Action",
+        "desc": "Die erste Hälfte – subtile, zarte Gefühlsübermittlung, als ob der Held noch verbirgt, was er fühlt. Die zweite Hälfte – direkter, voller aufrichtiger Gefühle und Gedanken.",
+        "voice": "Natürlich / Tiefe Modulation",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "Chainsaw Man – Chainsaw Man",
+        "demoType": "Schauspiel-Demo – Anime-Charakter",
+        "desc": "Eine Szene mit drei Stimmmodulationen für extreme Emotionen: Begeisterung, Motivation und Überraschung. Eine wilde Darbietung, bei der der Autor großen Spaß hatte, die Charaktere zu verkörpern.",
+        "voice": "Natürlich / Fry / Hohe Modulation",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "Daredevil – Marvel Rivals",
+        "demoType": "Schauspiel-Demo – Spielcharakter",
+        "desc": "Inspiriert vom englischen Synchronsprecher der Figur – Aleks Le. Die Herausforderung bestand in der Stimmmodulation und darin, Daredevils Zeilen die ihnen gebührende Kraft zu verleihen.",
+        "voice": "Tiefe Modulation",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "Transformers One – Transformers One",
+        "demoType": "Schauspiel-Demo – Animation",
+        "desc": "Obwohl der Film auf ein jüngeres Publikum ausgerichtet ist, hatte emotionale Tiefe Priorität – nicht Modulation. Die Stimme trägt Wut, Frustration, Sorge, Trauer und einen Hauch Hoffnung.",
+        "voice": "Natürlich / Tiefe Modulation",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "Schauspiel-Demo – Spielcharakter",
+        "desc": "Eine dem Herzen nahe Figur – erstmals zu Beginn einer Fandubbing-Karriere aufgenommen. Die Neuaufnahme zeigt deutlichen Fortschritt in kurzer Zeit. Bessere Charakteranalyse ermöglichte eine noch bessere Darstellung.",
+        "voice": "Natürlich / Hoch",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "PROJEKTDETAILS"
+  },
+  "Contact": {
+    "title": "Kontakt aufnehmen",
+    "name": "Dein Name",
+    "email": "Deine E-Mail",
+    "projectType": "Projektart",
+    "typeCommercial": "Werbung",
+    "typeDubbing": "Synchronisation",
+    "typeOther": "Sonstiges",
+    "message": "Deine Nachricht",
+    "send": "Nachricht senden",
+    "success": "Nachricht erfolgreich gesendet!",
+    "error": "Beim Senden deiner Nachricht ist ein Fehler aufgetreten. Bitte versuche es erneut."
+  },
+  "Equipment": {
+    "title": "Studioausrüstung",
+    "subtitle": "Professionelles Equipment für Aufnahmen in Radioqualität.",
+    "mic": "Mikrofon",
+    "micDesc": "Rode NT1 5th Gen",
+    "interface": "Audio-Interface",
+    "interfaceDesc": "Scarlett Solo 4th Gen",
+    "daw": "DAW",
+    "dawDesc": "Reaper Ver 7.44",
+    "scrollHint": "Wischen Sie, um mehr zu sehen"
+  },
+  "Player": {
+    "play": "Abspielen",
+    "pause": "Pausieren",
+    "switchLanguage": "Sprache wechseln",
+    "pl": "Polnisch",
+    "en": "Englisch",
+    "mute": "Stummschalten",
+    "unmute": "Stummschaltung aufheben",
+    "demoTitle": "Wegweiser / Sprachprobe",
+    "demoSubtitle": "Probe anhören"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Hier befindet sich die vollständige Liste aller offiziellen professionellen Synchronprojekte, an denen ich mitgewirkt habe.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Mein derzeit aktivstes und beliebtestes Profil. Ich veröffentliche dort meine eigenen Synchronisationen von Szenen und lustigen Videos — ganz aus Leidenschaft, denn Synchronsprechen ist meine Passion!",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Auf diesem Kanal sieht man, mit welchen Produktionen ich angefangen habe und wie sie sich im Laufe der Jahre entwickelt haben. Gelegentlich streame ich live die Entstehung von Amateur-Synchronprojekten — von der Übersetzung über den Soundtrack bis zur Aufnahme und Realisierung!",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Berufliche Kontakte und Erfahrungen.",
+    "visitLink": "Besuchen"
+  },
+  "DirectContact": {
+    "badge": "Kontakt",
+    "title": "Lass uns sprechen",
+    "subtitle": "Beschreibe dein Projekt und ich melde mich so schnell wie möglich bei dir.",
+    "copyEmail": "E-Mail-Adresse kopieren",
+    "copied": "Kopiert!",
+    "whatsapp": "Auf WhatsApp schreiben",
+    "namePlaceholder": "Vor- und Nachname",
+    "emailPlaceholder": "E-Mail-Adresse",
+    "messagePlaceholder": "Beschreibe dein Projekt...",
+    "projectTypePlaceholder": "Projektart auswählen",
+    "typeCommercial": "Werbung / Werbespot",
+    "typeDubbing": "Synchronisation / Lippensync",
+    "typeNarration": "Narration / Hörbuch",
+    "typeAnimation": "Animation / Spiel",
+    "typeElearning": "E-Learning / Schulung",
+    "typeOther": "Sonstiges",
+    "sendButton": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "divider": "oder",
+    "successTitle": "Nachricht gesendet!",
+    "successDesc": "Ich melde mich so schnell wie möglich bei dir.",
+    "successReset": "Weitere Nachricht senden",
+    "errorTitle": "Etwas ist schiefgelaufen",
+    "errorDesc": "Bitte versuche es erneut oder schreibe direkt per E-Mail.",
+    "errorReset": "Erneut versuchen"
+  },
+  "LogoTicker": {
+    "badge": "Offizielle Produktionen",
+    "title": "Und hier bin ich aufgetreten!",
+    "description": "Das sind die Projekte, Schöpfer und Studios, bei denen ich offiziell meine Stimme leihen durfte."
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Alle Rechte vorbehalten.",
+    "contactEmail": "Kontakt E-Mail",
+    "phone": "Telefon",
+    "backToTop": "Zurück nach oben",
+    "language": "Sprache"
+  },
+  "SEO": {
+    "title": "Skryty | Professioneller Sprecher",
+    "description": "Professionelle Sprecherdienste für Werbung, Erzählungen, Charaktere und Hörbücher. Erwecken Sie Ihre Texte mit Emotion und Klarheit zum Leben.",
+    "ogTitle": "Skryty - Sprecher Portfolio"
+  },
+  "Error": {
+    "notFoundTitle": "Seite Nicht Gefunden",
+    "notFoundDesc": "Die gesuchte Seite existiert nicht.",
+    "errorTitle": "Ein Fehler ist aufgetreten!",
+    "errorDesc": "Es gab einen unerwarteten Fehler.",
+    "backHome": "Zurück zur Startseite",
+    "tryAgain": "Erneut Versuchen"
+  },
+  "AboutMe": {
+    "title": "Über mich",
+    "subtitle": "Die Stimme hinter der Stimmung",
+    "description": "Ich bin ein vielseitiger und leidenschaftlicher professioneller Sprecher, der sich darauf spezialisiert hat, Charakteren, Marken und Erzählungen Leben einzuhauchen. Mit jahrelanger Erfahrung vor dem Mikrofon habe ich die chamäleonartige Fähigkeit entwickelt, meinen Tonfall anzupassen – von warm und gesprächig bis hin zu autoritär und filmisch. Mein Ziel ist einfach: Ihr Skript soll beim beabsichtigten Publikum Anklang finden.",
+    "goalsTitle": "Lass uns zusammenarbeiten!",
+    "goalsDesc": "Ich bin bereit, sowohl an offiziellen, professionellen Synchronprojekten als auch an Amateurspielen mitzuwirken.\nJe nach Projekt oder Bedarf kann ich sowohl gegen Bezahlung als auch kostenlos arbeiten.\nIch biete außerdem kostenlose gemeinsame Regie-Sessions mit dem Kunden an – remote oder in einem Studio nach Wahl des Kunden.\nIch freue mich über jede Kontaktaufnahme – ich kann die Zusammenarbeit kaum erwarten!",
+    "trait1": "Professionelles Studio",
+    "trait2": "Schnelle Bearbeitung",
+    "trait3": "Vielseitiger Stimmumfang",
+    "trait4": "Gut zu regissieren"
+  },
+  "AudioDemos": {
+    "badge": "SCHAUSPIEL-/SPRECHERPORTFOLIO",
+    "title": "Audio-Demos",
+    "subtitle": "Nur Stimme, kein Video — der Klang spricht für sich.",
+    "demos": {
+      "acting": {
+        "type": "Schauspiel-Demo",
+        "title": "Schauspiel-Demo",
+        "desc": "Eine volle emotionale Palette — von subtiler Spannung bis intensivem Drama. Die Stimme geformt durch den Charakter und die Szene."
+      },
+      "audiobook": {
+        "type": "Sprecher-Demo",
+        "title": "Sprecher-Demo",
+        "desc": "Warmer, überzeugender Ton — eine Stimme, die von der ersten Sekunde an Aufmerksamkeit erregt und die Marke unvergesslich macht."
+      },
+      "commercial1": {
+        "type": "Werbe-Demo",
+        "title": "Werbe-Demo",
+        "desc": "Energetische Dynamik und klare Aussprache. Entwickelt für Spots, die Tempo, Ausdruck und Klarheit erfordern."
+      },
+      "commercial2": {
+        "type": "Werbe-Demo",
+        "title": "Werbe-Demo 2",
+        "desc": "Energetische Dynamik und klare Aussprache. Entwickelt für Spots, die Tempo, Ausdruck und Klarheit erfordern."
+      }
+    }
+  }
+}

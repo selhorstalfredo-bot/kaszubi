@@ -1,0 +1,232 @@
+{
+  "Navigation": {
+    "home": "ホーム",
+    "portfolio": "ポートフォリオ",
+    "about": "私について",
+    "contact": "お問い合わせ",
+    "quickQuote": "見積もり",
+    "changeLanguage": "言語の切り替え"
+  },
+  "Hero": {
+    "title": "プロの声優・ナレーター",
+    "subtitle": "Michał \"SkrytyVA\" Kaszubowski",
+    "description": "そして、こんな風に聴こえます！",
+    "cta": "デモを聴く"
+  },
+  "Portfolio": {
+    "commercial": "CM",
+    "narration": "ナレーション",
+    "character": "キャラクター / アニメ",
+    "audiobook": "オーディオブック",
+    "listenNow": "今すぐ聴く",
+    "badge": "演技ポートフォリオ",
+    "title": "ビデオデモ",
+    "version": "バージョン:",
+    "prev": "前へ",
+    "next": "次へ",
+    "voiceLabel": "声質",
+    "micLabel": "録音機材",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – 崩壊：スターレイル",
+        "demoType": "演技デモ – ゲームキャラクター",
+        "desc": "ギャンブラーの魅力、大胆さ、そして奇抜さを表現することが目標でした。オリジナル（謎めいて単調）とは異なり、キャラクターにより多くの生命力と個性を吹き込みました。",
+        "voice": "ナチュラル",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – ゼンレスゾーンゼロ",
+        "demoType": "演技デモ – ゲームキャラクター",
+        "desc": "90年代のスパンデックス・スーパーヒーロードラマを彷彿とさせる誇張されたコメディシーン。ハイパーエクスプレッシブなキャラクターの「かっこよさ」を保ちながら、最大限のポジティブエネルギーを表現しました。",
+        "voice": "ナチュラル / ハイトーン",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – サイバーパンク：エッジランナーズ",
+        "demoType": "演技デモ – ダイアログ",
+        "desc": "キャラクター間の強い緊張感——一方のフラストレーションと困惑、もう一方の嘲笑と優越感。典型的な吹き替えではなく、映画的で自然なスタイルを意識して録音しました。",
+        "voice": "ナチュラル / ハイトーン / フライ",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Mr. スターク – アベンジャーズ：インフィニティ・ウォー",
+        "demoType": "演技デモ – 実写",
+        "desc": "感情の繊細なバランス——誇張しすぎず、硬すぎず。映画媒体に特有のマイクロエクスプレッションに特に注意を払いました。",
+        "voice": "ナチュラル",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – ワンピース 実写版",
+        "demoType": "演技デモ – 実写",
+        "desc": "前半——主人公がまだ自分の感情を隠しているかのような、繊細で優しい感情表現。後半——より直接的で、真摯な感情と心の内が溢れ出します。",
+        "voice": "ナチュラル / 低音モジュレーション",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "チェンソーマン – チェンソーマン",
+        "demoType": "演技デモ – アニメキャラクター",
+        "desc": "極端な感情を表現する3つのモジュレーションを披露するシーン：興奮、モチベーション、驚き。各キャラクターを体現することを存分に楽しんだワイルドなパフォーマンス。",
+        "voice": "ナチュラル / フライ / 高音モジュレーション",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "デアデビル – Marvel Rivals",
+        "demoType": "演技デモ – ゲームキャラクター",
+        "desc": "英語版の声優アレクス・レに触発されました。声の変調とデアデビルのセリフにふさわしい力を与えることが挑戦でした。",
+        "voice": "低音モジュレーション",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "トランスフォーマーONE – トランスフォーマー",
+        "demoType": "演技デモ – アニメーション",
+        "desc": "映画が若い視聴者向けでも、優先事項は感情的な深み——変調ではありません。声には怒り、苛立ち、心配、悲しみ、そして一筋の希望が込められています。",
+        "voice": "ナチュラル / 低音モジュレーション",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "演技デモ – ゲームキャラクター",
+        "desc": "心に近いキャラクター——ファンダビングのキャリア初期に初めて録音しました。再録音は短期間での明確な進歩を示しています。より深いキャラクター分析により、さらに優れた演技が実現しました。",
+        "voice": "ナチュラル / ハイトーン",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "プロジェクト詳細"
+  },
+  "Contact": {
+    "title": "お問い合わせ",
+    "name": "お名前",
+    "email": "メールアドレス",
+    "projectType": "プロジェクトの種類",
+    "typeCommercial": "CM",
+    "typeDubbing": "吹き替え",
+    "typeOther": "その他",
+    "message": "メッセージ",
+    "send": "メッセージを送る",
+    "success": "メッセージが正常に送信されました！",
+    "error": "メッセージの送信中にエラーが発生しました。もう一度お試しください。"
+  },
+  "Equipment": {
+    "title": "スタジオ機材",
+    "subtitle": "ラジオ品質の録音のためのプロ機材。",
+    "mic": "マイク",
+    "micDesc": "Rode NT1 5th Gen",
+    "interface": "オーディオインターフェイス",
+    "interfaceDesc": "Scarlett Solo 4th Gen",
+    "daw": "DAW",
+    "dawDesc": "Reaper Ver 7.44",
+    "scrollHint": "スワイプしてさらに表示"
+  },
+  "Player": {
+    "play": "再生",
+    "pause": "一時停止",
+    "switchLanguage": "言語の切り替え",
+    "pl": "ポーランド語",
+    "en": "英語",
+    "mute": "ミュート",
+    "unmute": "ミュート解除",
+    "demoTitle": "ガイド / 音声サンプル",
+    "demoSubtitle": "サンプルを聴く"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "私が出演した公式プロのダビングプロジェクトの完全なリストが掲載されています。",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "現在最も活発で人気のあるプロフィールです。シーンや面白い動画の吹き替えを投稿しています — すべて趣味として、なぜなら吹き替えは私の情熱だからです！",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "このチャンネルでは、私がどんな作品からスタートし、長年にわたってどのように変化してきたかを見ることができます。時折、アマチュア吹き替えプロジェクトの制作過程をライブ配信しています — 翻訳から音声トラックの作成、録音、制作まで一から全て！",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "職業的なコネクションと経歴。",
+    "visitLink": "アクセス"
+  },
+  "DirectContact": {
+    "badge": "お問い合わせ",
+    "title": "お話しましょう",
+    "subtitle": "プロジェクトの内容を教えてください。できる限り早くご連絡いたします。",
+    "copyEmail": "メールアドレスをコピー",
+    "copied": "コピーしました！",
+    "whatsapp": "WhatsAppでメッセージ",
+    "namePlaceholder": "氏名",
+    "emailPlaceholder": "メールアドレス",
+    "messagePlaceholder": "プロジェクトについて説明してください...",
+    "projectTypePlaceholder": "プロジェクトの種類を選択",
+    "typeCommercial": "CM / 広告スポット",
+    "typeDubbing": "吹き替え / 口パク合わせ",
+    "typeNarration": "ナレーション / オーディオブック",
+    "typeAnimation": "アニメーション / ゲーム",
+    "typeElearning": "eラーニング / 研修",
+    "typeOther": "その他",
+    "sendButton": "メッセージを送る",
+    "sending": "送信中...",
+    "divider": "または",
+    "successTitle": "メッセージを送信しました！",
+    "successDesc": "できる限り早くご連絡いたします。",
+    "successReset": "別のメッセージを送る",
+    "errorTitle": "問題が発生しました",
+    "errorDesc": "もう一度お試しいただくか、直接メールでお問い合わせください。",
+    "errorReset": "再試行"
+  },
+  "LogoTicker": {
+    "badge": "公式出演作品",
+    "title": "私が出演した作品はこちら！",
+    "description": "これらは私が公式に声を提供したプロジェクト、クリエーター、スタジオです。"
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. 無断転載を禁じます。",
+    "contactEmail": "連絡先メールアドレス",
+    "phone": "電話番号",
+    "backToTop": "トップに戻る",
+    "language": "言語"
+  },
+  "SEO": {
+    "title": "Skryty | プロの声優",
+    "description": "CM、ナレーション、キャラクター、オーディオブックのプロフェッショナルな音声サービス。感情と透明感で原稿に命を吹き込みます。",
+    "ogTitle": "Skryty - 声優ポートフォリオ"
+  },
+  "Error": {
+    "notFoundTitle": "ページが見つかりません",
+    "notFoundDesc": "お探しのページは存在しません。",
+    "errorTitle": "エラーが発生しました",
+    "errorDesc": "予期しないエラーが発生しました。",
+    "backHome": "ホームに戻る",
+    "tryAgain": "やり直す"
+  },
+  "AboutMe": {
+    "title": "私について",
+    "subtitle": "雰囲気を作る声",
+    "description": "キャラクター、ブランド、ナレーションに命を吹き込むことを専門とする、情熱的で多才な声優です。マイクの前に立つ長年の経験から、温かみのある語り口から映画のような権威あるトーンまで、音調をカメレオンのように適応させる能力を身につけました。目標はシンプルです：あなたの台本がターゲット視聴者に響くようにすることです。",
+    "goalsTitle": "一緒に働きましょう！",
+    "goalsDesc": "公式・プロの吹き替えプロジェクトはもちろん、アマチュアプロジェクトにも積極的に参加したいと思っています。\nプロジェクトや必要に応じて、有償・無償どちらでも対応可能です。\nクライアントとの無料の共同ディレクションセッションもご提供しています。リモートまたはクライアントが選ぶスタジオにて。\nお気軽にご連絡ください — 一緒に作業できることを楽しみにしています！",
+    "trait1": "プロフェッショナルスタジオ",
+    "trait2": "迅速な納品",
+    "trait3": "幅広い声域",
+    "trait4": "演出適応力と協調性"
+  },
+  "AudioDemos": {
+    "badge": "演技/ナレーション ポートフォリオ",
+    "title": "オーディオデモ",
+    "subtitle": "映像なし、純粋な声——音が自分自身を語ります。",
+    "demos": {
+      "acting": {
+        "type": "演技デモ",
+        "title": "演技デモ",
+        "desc": "微妙な緊張から激しいドラマまで、満載の感情パレット。キャラクターとシーンに従って形づくられる声。"
+      },
+      "audiobook": {
+        "type": "ナレーションデモ",
+        "title": "ナレーションデモ",
+        "desc": "温かく説得力のあるトーン——最初の一秒から注目を引きつけ、ブランドを忘れられないものにする声。"
+      },
+      "commercial1": {
+        "type": "広告デモ",
+        "title": "広告デモ",
+        "desc": "エネルギッシュなダイナミクスと風通しの良い発音。ペース、表現力、明瞭さを求めるスポット向けに作られました。"
+      },
+      "commercial2": {
+        "type": "広告デモ",
+        "title": "広告デモ 2",
+        "desc": "エネルギッシュなダイナミクスと風通しの良い発音。ペース、表現力、明瞭さを求めるスポット向けに作られました。"
+      }
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "Navigation": {
+    "home": "Anasayfa",
+    "portfolio": "Portföy",
+    "about": "Hakkımda",
+    "contact": "İletişim",
+    "quickQuote": "Hızlı Teklif",
+    "changeLanguage": "Dili Değiştir"
+  },
+  "Hero": {
+    "title": "Profesyonel Seslendirme Sanatçısı",
+    "subtitle": "Michał \"SkrytyVA\" Kaszubowski",
+    "description": "Ve işte böyle sesleniyorum!",
+    "cta": "Demolarımı Dinle"
+  },
+  "Portfolio": {
+    "commercial": "Reklamlar",
+    "narration": "Anlatım",
+    "character": "Karakter / Animasyon",
+    "audiobook": "Sesli Kitaplar",
+    "listenNow": "Şimdi Dinle",
+    "badge": "OYUNCULUK PORTFÖYÜ",
+    "title": "Video Demoları",
+    "version": "SÜRÜM:",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "voiceLabel": "Ses",
+    "micLabel": "Kaydedildi",
+    "videos": {
+      "aventurine": {
+        "title": "Aventurine – Honkai Star Rail",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "Amaç, bir kumarbazın karizmasını, küstahlığını ve eksantrikliğini yansıtmaktı. Orijinalin aksine (gizemli ve monoton), karaktere daha fazla yaşam ve kişilik kazandırıldı.",
+        "voice": "Doğal",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "billy_henshin": {
+        "title": "Billy Henshin – Zenless Zone Zero",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "90'ların süper kahraman dizilerine göndermeler içeren abartılı komedi sahnesi. Hiper-ekspresif karakterin \"havalı\" karakterini koruyarak maksimum pozitif duygu.",
+        "voice": "Doğal / Yüksek",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "edgerunners": {
+        "title": "Edgerunners – Cyberpunk: Edgerunners",
+        "demoType": "Oyunculuk Demosu – Diyalog",
+        "desc": "Karakterler arasında güçlü gerilim — birinin sinirli şaşkınlığı diğerinin alaycılığı ve üstünlüğüne karşı. Tipik dublaj yerine sinematik ve doğal bir üslupla kaydedildi.",
+        "voice": "Doğal / Yüksek / Fry",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "mr_stark": {
+        "title": "Bay Stark – Yenilmezler: Sonsuzluk Savaşı",
+        "demoType": "Oyunculuk Demosu – Canlı Aksiyon",
+        "desc": "Zorlu bir duygu dengesi — ne aşırı abartılı ne de katı. Film ortamına özgü mikro ifadelere özel önem verildi.",
+        "voice": "Doğal",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "one_piece": {
+        "title": "One Piece – One Piece Canlı Aksiyon",
+        "demoType": "Oyunculuk Demosu – Canlı Aksiyon",
+        "desc": "İlk yarı — kahraman ne hissettiğini hâlâ saklıyormuş gibi ince ve hassas bir duygu aktarımı. İkinci yarı — daha doğrudan, samimi duygular ve düşüncelerle dolu.",
+        "voice": "Doğal / Alçak Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "chainsaw_man": {
+        "title": "Chainsaw Man – Chainsaw Man",
+        "demoType": "Oyunculuk Demosu – Anime Karakteri",
+        "desc": "Aşırı duyguları aktaran üç modülasyonu sergileyen sahne: heyecan, motivasyon ve şaşkınlık. Yazarın her karakteri canlandırırken çok eğlendiği çılgın bir performans.",
+        "voice": "Doğal / Fry / Yüksek Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "dare_devil": {
+        "title": "Daredevil – Marvel Rivals",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "İlham kaynağı karakterin İngilizce seslendirme sanatçısıydı — Aleks Le. Meydan okuma, ses modülasyonu ve Daredevil'in repliklerine hak ettikleri gücü vermekti.",
+        "voice": "Alçak Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "transformers_one": {
+        "title": "Transformers One – Transformers One",
+        "demoType": "Oyunculuk Demosu – Animasyon",
+        "desc": "Film daha genç bir izleyici kitlesine yönelik olsa da öncelik duygusal derinlikti — modülasyon değil. Seste öfke, hayal kırıklığı, endişe, üzüntü ve bir tutam umut duyulabilir.",
+        "voice": "Doğal / Alçak Modülasyon",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      },
+      "sin": {
+        "title": "Sin – Guilty Gear Strive",
+        "demoType": "Oyunculuk Demosu – Oyun Karakteri",
+        "desc": "Kalbe yakın bir karakter — fandublaj kariyerinin başında ilk kez kaydedildi. Yeniden kayıt, kısa sürede belirgin ilerlemeyi ortaya koyuyor. Daha iyi karakter analizi, daha iyi bir performans sağladı.",
+        "voice": "Doğal / Yüksek",
+        "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
+      }
+    },
+    "projectDetails": "PROJE DETAYLARI"
+  },
+  "Contact": {
+    "title": "İletişime Geç",
+    "name": "Adınız",
+    "email": "E-postanız",
+    "projectType": "Proje Türü",
+    "typeCommercial": "Reklam",
+    "typeDubbing": "Dublaj",
+    "typeOther": "Diğer",
+    "message": "Mesajınız",
+    "send": "Mesaj Gönder",
+    "success": "Mesaj başarıyla gönderildi!",
+    "error": "Mesajınız gönderilirken bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "Equipment": {
+    "title": "Stüdyo Ekipmanları",
+    "subtitle": "Radyo kalitesinde kayıtlar için profesyonel donanım.",
+    "mic": "Mikrofon",
+    "micDesc": "Rode NT1 5th Gen",
+    "interface": "Ses Arabirimi",
+    "interfaceDesc": "Scarlett Solo 4th Gen",
+    "daw": "DAW",
+    "dawDesc": "Reaper Ver 7.44",
+    "scrollHint": "Daha fazlası için kaydırın"
+  },
+  "Player": {
+    "play": "Oynat",
+    "pause": "Duraklat",
+    "switchLanguage": "Dili Değiştir",
+    "pl": "Lehçe",
+    "en": "İngilizce",
+    "mute": "Sesi Kapat",
+    "unmute": "Sesi Aç",
+    "demoTitle": "Rehber / Ses Örneği",
+    "demoSubtitle": "Örneği Dinle"
+  },
+  "PortfolioGrid": {
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "Resmi olarak katıldığım tüm profesyonel seslendirme projelerinin tam listesi burada yer almaktadır.",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "Şu an en aktif ve popüler profilim. Sahnelerin ve komik videoların kendi dublajlarımı paylaşıyorum — tamamen hobi olarak, çünkü seslendirme benim tutkum!",
+    "youtubeTitle": "YouTube",
+    "youtubeDesc": "Bu kanalda hangi yapımlarla başladığımı ve yıllar içinde nasıl değiştiğimi görebilirsiniz. Arada sırada amatör seslendirme projelerinin başından sonuna kadar canlı yapımını yayınlıyorum — çeviriden ses parçası oluşturmaya, kayıttan prodüksiyona kadar!",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDesc": "Profesyonel bağlantılar ve deneyim.",
+    "visitLink": "Ziyaret Et"
+  },
+  "DirectContact": {
+    "badge": "İletişim",
+    "title": "Konuşalım",
+    "subtitle": "Projenizi anlatın, en kısa sürede size geri döneceğim.",
+    "copyEmail": "E-posta adresini kopyala",
+    "copied": "Kopyalandı!",
+    "whatsapp": "WhatsApp'ta Mesaj Gönder",
+    "namePlaceholder": "Ad Soyad",
+    "emailPlaceholder": "E-posta Adresi",
+    "messagePlaceholder": "Projenizi açıklayın...",
+    "projectTypePlaceholder": "Proje türünü seçin",
+    "typeCommercial": "Reklam / Reklam Spotu",
+    "typeDubbing": "Dublaj / Lip Sync",
+    "typeNarration": "Anlatım / Sesli Kitap",
+    "typeAnimation": "Animasyon / Oyun",
+    "typeElearning": "E-Öğrenim / Eğitim",
+    "typeOther": "Diğer",
+    "sendButton": "Mesaj Gönder",
+    "sending": "Gönderiliyor...",
+    "divider": "veya",
+    "successTitle": "Mesaj Gönderildi!",
+    "successDesc": "En kısa sürede size geri döneceğim.",
+    "successReset": "Başka bir mesaj gönder",
+    "errorTitle": "Bir şeyler yanlış gitti",
+    "errorDesc": "Lütfen tekrar deneyin veya doğrudan e-posta ile ulaşın.",
+    "errorReset": "Tekrar Dene"
+  },
+  "LogoTicker": {
+    "badge": "Resmi Yapımlar",
+    "title": "İşte burada göründüm!",
+    "description": "Bunlar resmi olarak sesimi ödünç verdiğim projeler, yaratıcılar ve stüdyolardır."
+  },
+  "Footer": {
+    "copyright": "© 2026 Skryty_VA. Tüm hakları saklıdır.",
+    "contactEmail": "İletişim E-postası",
+    "phone": "Telefon",
+    "backToTop": "Başa Dön",
+    "language": "Dil"
+  },
+  "SEO": {
+    "title": "Skryty | Profesyonel Seslendirme Sanatçısı",
+    "description": "Reklamlar, anlatımlar, karakter seslendirmesi ve sesli kitaplar için profesyonel seslendirme hizmetleri. Metinlerinize duygu ve netlikle hayat verin.",
+    "ogTitle": "Skryty - Seslendirme Portföyü"
+  },
+  "Error": {
+    "notFoundTitle": "Sayfa Bulunamadı",
+    "notFoundDesc": "Aradığınız sayfa bulunamadı.",
+    "errorTitle": "Bir şeyler yanlış gitti!",
+    "errorDesc": "Beklenmeyen bir hata oluştu.",
+    "backHome": "Ana Sayfaya Dön",
+    "tryAgain": "Tekrar Dene"
+  },
+  "AboutMe": {
+    "title": "Hakkımda",
+    "subtitle": "Atmosferin Arkasındaki Ses",
+    "description": "Karakterlere, markalara ve anlatımlara hayat verme konusunda uzmanlaşmış çok yönlü ve tutkulu bir seslendirme sanatçısıyım. Mikrofondaki yılların getirdiği tecrübeyle, tonumu sıcak ve sohbete dayalı bir tarzdan daha otoriter ve sinematik bir yapıya dönüştürebilen bir yetenek geliştirdim. Amacım basit: Senaryonuzun hedef kitlenizle yankı bulmasını sağlamak.",
+    "goalsTitle": "Birlikte Çalışalım!",
+    "goalsDesc": "Resmi, profesyonel seslendirme projelerinde çalışmaya istekliyim, aynı zamanda amatör projelerde de.\nProjeye veya ihtiyaca bağlı olarak hem ücretli hem de ücretsiz çalışabiliyorum.\nAyrıca müşteriyle ücretsiz ortak yönetmenlik seansları sunuyorum — uzaktan veya müşterinin seçtiği stüdyoda.\nİletişime geçmekten çekinmeyin — birlikte çalışmayı dört gözle bekliyorum!",
+    "trait1": "Profesyonel Stüdyo",
+    "trait2": "Hızlı Teslimat",
+    "trait3": "Çok Yönlü Ses Aralığı",
+    "trait4": "Yönetilebilir & İşbirlikçi"
+  },
+  "AudioDemos": {
+    "badge": "OYUNCULUK/SESLENDİRME PORTFÖYÜ",
+    "title": "Ses Demoları",
+    "subtitle": "Saf ses, video yok — sesini kendin konuştur.",
+    "demos": {
+      "acting": {
+        "type": "Oyunculuk Demosu",
+        "title": "Oyunculuk Demosu",
+        "desc": "Tam bir duygu paleti — ince gerilimden yoğun dramaya. Karakter ve sahneye göre şekillenen ses."
+      },
+      "audiobook": {
+        "type": "Seslendirme Demosu",
+        "title": "Seslendirme Demosu",
+        "desc": "Sıcak, ikna edici ton — ilk saniyeden dikkat çeken ve markayı unutulmaz kılan ses."
+      },
+      "commercial1": {
+        "type": "Reklam Demosu",
+        "title": "Reklam Demosu",
+        "desc": "Enerjik dinamizm ve net diksiyon. Hız, ifade ve netlik gerektiren spotlar için üretilmiştir."
+      },
+      "commercial2": {
+        "type": "Reklam Demosu",
+        "title": "Reklam Demosu 2",
+        "desc": "Enerjik dinamizm ve net diksiyon. Hız, ifade ve netlik gerektiren spotlar için üretilmiştir."
+      }
+    }
+  }
+}
