@@ -3,90 +3,90 @@
     "home": "首页",
     "portfolio": "作品集",
     "about": "关于我",
-    "contact": "联系方式",
+    "contact": "联系",
     "quickQuote": "快速报价",
     "changeLanguage": "切换语言"
   },
   "Hero": {
     "title": "专业配音演员",
     "subtitle": "Michał \"SkrytyVA\" Kaszubowski",
-    "description": "这就是我的声音！",
-    "cta": "试听我的演示"
+    "description": "来听听我的声音！",
+    "cta": "试听我的样片"
   },
   "Portfolio": {
-    "commercial": "商业广告",
-    "narration": "旁白叙述",
+    "commercial": "广告",
+    "narration": "旁白",
     "character": "角色 / 动画",
-    "audiobook": "有声读物",
-    "listenNow": "立即收听",
-    "badge": "演技作品集",
-    "title": "视频演示",
-    "version": "版本:",
+    "audiobook": "有声书",
+    "listenNow": "试听",
+    "badge": "配音作品集",
+    "title": "视频样片",
+    "version": "版本：",
     "prev": "上一个",
     "next": "下一个",
     "voiceLabel": "声线",
     "micLabel": "录制设备",
     "videos": {
       "aventurine": {
-        "title": "Aventurine – 崩坏：星穹铁道",
-        "demoType": "表演演示 – 游戏角色",
-        "desc": "目标是捕捉赌徒的魅力、大胆和怪癖。与原版（神秘而单调）不同，为角色注入了更多生命力和个性。",
+        "title": "Aventurine – Honkai Star Rail",
+        "demoType": "演技样片 – 游戏角色",
+        "desc": "对于这个角色，我特别想呈现出他身上的魅力、潇洒与那份不羁——这正是一名赌徒该有的气场！虽然原版的演绎更偏向神秘而平稳的语调，但我选择为他注入更多生命力与个性。",
         "voice": "自然",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "billy_henshin": {
-        "title": "Billy Henshin – 绝区零",
-        "demoType": "表演演示 – 游戏角色",
-        "desc": "一场充满夸张的喜剧场景，致敬90年代紧身衣超级英雄剧集。在保留超表情角色\"酷炫\"气质的同时，将正面情绪发挥到极致。",
+        "title": "Billy Henshin – Zenless Zone Zero",
+        "demoType": "演技样片 – 游戏角色",
+        "desc": "这一次是一场极尽夸张的喜剧场景，洋溢着九十年代紧身衣超级英雄剧的气息。我在这里释放出满满的正能量，同时也保留了几分「硬汉」的派头——这正是我所饰演的那个表现力爆棚的角色自认为拥有的！",
         "voice": "自然 / 高音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "edgerunners": {
-        "title": "Edgerunners – 赛博朋克：边缘行者",
-        "demoType": "表演演示 – 对话",
-        "desc": "角色之间的强烈张力——一方沮丧尴尬，另一方嘲讽高傲。以电影自然风格录制，而非传统配音方式。",
+        "title": "Edgerunners – Cyberpunk: Edgerunners",
+        "demoType": "演技样片 – 对白",
+        "desc": "在这场戏里，从头到尾都能感受到角色之间剑拔弩张的张力。我既诠释了一方那种焦躁不安的烦闷，也演绎了另一方那种讥讽挑衅与高高在上的姿态。录制时，我并没有把它当作动画配音来处理——为了更好地还原这场戏的氛围，我追求的是一种自然而富有电影感的演绎。",
         "voice": "自然 / 高音 / 气泡音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "mr_stark": {
-        "title": "Mr. Stark – 复仇者联盟：无限战争",
-        "demoType": "表演演示 – 真人影视",
-        "desc": "对情感的高难度把控——既不过于夸张，也不过于生硬。特别注重电影媒介特有的微表情呈现。",
+        "title": "Mr. Stark – Avengers: Infinity War",
+        "demoType": "演技样片 – 真人影视",
+        "desc": "这并不是一场容易的戏——每一种情绪都必须拿捏得恰到好处，既不能演得过火，也不能显得太过僵硬。考虑到它属于真人影视这一载体，我还必须留意其中所有细微的表情变化。",
         "voice": "自然",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "one_piece": {
-        "title": "One Piece – 海贼王真人版",
-        "demoType": "表演演示 – 真人影视",
-        "desc": "前半段——情感传递细腻温柔，仿佛英雄还在掩藏内心感受。后半段——更加直接，充满真挚情感与内心独白。",
-        "voice": "自然 / 低音调制",
+        "title": "One Piece – One Piece Live Action",
+        "demoType": "演技样片 – 真人影视",
+        "desc": "在前半段，我的重点是用细腻含蓄的方式勾勒出角色的全部情感。我极为轻柔、温存地说出他的台词，仿佛他仍想把内心真正的感受藏在心底——直到后半段，台词才变得更加直白，承载起角色真挚的情感与坦诚的心声。",
+        "voice": "自然 / 低度调音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "chainsaw_man": {
-        "title": "电锯人 – 电锯人",
-        "demoType": "表演演示 – 动漫角色",
-        "desc": "呈现三种调制风格的场景，分别传达极端情绪：兴奋、动力与惊讶。作者在演绎每个角色时玩得不亦乐乎的疯狂演出。",
-        "voice": "自然 / 气泡音 / 高音调制",
+        "title": "Chainsaw Man – Chainsaw Man",
+        "demoType": "演技样片 – 动漫角色",
+        "desc": "在这场戏里，我展现了三种不同的声音变化，每一种都传递出一种极致的情绪——兴奋、斗志与震惊。这是一场相当「狂野」的戏，我在创作时玩得不亦乐乎，全身心投入到角色之中，去捕捉他们的情感与个性！",
+        "voice": "自然 / 气泡音 / 高度调音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "dare_devil": {
-        "title": "夜魔侠 – Marvel Rivals",
-        "demoType": "表演演示 – 游戏角色",
-        "desc": "灵感来自角色的英文配音演员——Aleks Le。挑战在于声线调制，以及为夜魔侠的台词赋予应有的力量。",
-        "voice": "低音调制",
+        "title": "Dare Devil – Marvel Rivals",
+        "demoType": "演技样片 – 游戏角色",
+        "desc": "促使我挑战这段片段的，是该角色的英文配音演员 Aleks Le。我决定向自己发起挑战，去调控声音的变化，倾注全部的热情（与肺活量），为 Dare Devil 的每一句台词赋予它们应有的力量！",
+        "voice": "低度调音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "transformers_one": {
-        "title": "变形金刚：起源 – 变形金刚",
-        "demoType": "表演演示 – 动画",
-        "desc": "尽管影片面向年轻观众，但情感深度才是首要任务——而非调制。声音中蕴含愤怒、沮丧、担忧、悲伤与一丝希望。",
-        "voice": "自然 / 低音调制",
+        "title": "Transformers One – Transformers One",
+        "demoType": "演技样片 – 动画",
+        "desc": "尽管这部影片是为更年轻的观众打造的，但这并不意味着片中角色的声音就不配拥有情感的深度。声音的调控并不是我的首要目标——我更专注于情感本身。我想尽可能真实地还原角色之间的冲突，于是在我的声音里，你能听到愤怒、烦躁、担忧、悲伤，以及一丝希望。",
+        "voice": "自然 / 低度调音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       },
       "sin": {
         "title": "Sin – Guilty Gear Strive",
-        "demoType": "表演演示 – 游戏角色",
-        "desc": "贴近内心的角色——首次录制于同人配音生涯的起点。再次录制清晰展示了短时间内的明显进步。更深入的角色分析使演绎更上一层楼。",
+        "demoType": "演技样片 – 游戏角色",
+        "desc": "我对演绎这个角色有着特殊的情感——我第一次为他录音，正是在我同人配音生涯刚起步的时候。再次为他配音，我感觉自己仿佛与他一同成长。短短时间里我所取得的进步清晰可见。最重要的是永远不要止步于既有的成绩，而要不断学习。正是秉持这个信念，我才能把整个角色分析得更加透彻，把他演绎得更加令人信服！",
         "voice": "自然 / 高音",
         "mic": "Rode NT1 5th Gen / Scarlett Solo 4th Gen"
       }
@@ -94,26 +94,26 @@
     "projectDetails": "项目详情"
   },
   "Contact": {
-    "title": "联系我",
+    "title": "取得联系",
     "name": "您的姓名",
     "email": "您的邮箱",
     "projectType": "项目类型",
-    "typeCommercial": "商业广告",
+    "typeCommercial": "广告",
     "typeDubbing": "配音",
     "typeOther": "其他",
     "message": "您的留言",
-    "send": "发送消息",
-    "success": "消息发送成功！",
-    "error": "发送消息时出现错误，请重试。"
+    "send": "发送留言",
+    "success": "留言发送成功！",
+    "error": "发送留言时出现问题，请重试。"
   },
   "Equipment": {
-    "title": "工作室设备",
-    "subtitle": "广播级音频录音的专业设备。",
+    "title": "录音棚设备",
+    "subtitle": "专业器材，呈现广播级品质的录音。",
     "mic": "麦克风",
     "micDesc": "Rode NT1 5th Gen",
     "interface": "音频接口",
     "interfaceDesc": "Scarlett Solo 4th Gen",
-    "daw": "数字音频工作站",
+    "daw": "DAW",
     "dawDesc": "Reaper Ver 7.44",
     "scrollHint": "滑动查看更多"
   },
@@ -129,103 +129,103 @@
     "demoSubtitle": "试听样本"
   },
   "PortfolioGrid": {
-    "dubbingpediaTitle": "配音百科",
-    "dubbingpediaDesc": "这里包含了我所参与的所有官方专业配音项目的完整列表。",
+    "dubbingpediaTitle": "Dubbingpedia",
+    "dubbingpediaDesc": "这里收录了我参与过的全部官方、专业配音项目的完整清单。",
     "instagramTitle": "Instagram",
-    "instagramDesc": "这是我目前最活跃、最受欢迎的账号。我在上面发布自己的场景及搞笑视频配音——完全出于兴趣，因为配音是我的热情所在！",
+    "instagramDesc": "这是我目前最活跃、人气最高的主页。我会在这里发布自己配音的片段和有趣的小视频——纯粹出于兴趣，毕竟配音是我的热爱所在！",
     "youtubeTitle": "YouTube",
-    "youtubeDesc": "在这个频道上，你可以看到我是从哪些作品起步的，以及多年来是如何演变的。偶尔我会直播业余配音项目的整个制作过程——从翻译、音轨制作到录音和最终制作！",
+    "youtubeDesc": "在这个频道里，你可以看到我最初是从哪些作品起步的，以及它们这些年来是如何一路演变的。如今，你偶尔还能在我的频道里看到我的直播——从头到尾完全独自完成业余配音：从翻译，到搭建音轨，再到录制台词与最终成片！",
     "linkedinTitle": "LinkedIn",
-    "linkedinDesc": "专业人脉与经历。",
-    "visitLink": "访问"
+    "linkedinDesc": "职业人脉与从业经历。",
+    "visitLink": "前往"
   },
   "DirectContact": {
-    "badge": "联系方式",
-    "title": "来聊聊吧",
-    "subtitle": "描述您的项目，我将尽快回复您。",
+    "badge": "联系",
+    "title": "聊聊吧",
+    "subtitle": "把您的项目告诉我，我会尽快回复您。",
     "copyEmail": "复制邮箱地址",
     "copied": "已复制！",
-    "whatsapp": "WhatsApp留言",
+    "whatsapp": "通过 WhatsApp 联系",
     "namePlaceholder": "姓名",
-    "emailPlaceholder": "电子邮件地址",
-    "messagePlaceholder": "描述您的项目...",
-    "projectTypePlaceholder": "选择项目类型",
+    "emailPlaceholder": "邮箱地址",
+    "messagePlaceholder": "介绍一下您的项目……",
+    "projectTypePlaceholder": "请选择项目类型",
     "typeCommercial": "广告 / 广告片",
-    "typeDubbing": "配音 / 口型同步",
-    "typeNarration": "旁白 / 有声读物",
+    "typeDubbing": "配音 / 对口型",
+    "typeNarration": "旁白 / 有声书",
     "typeAnimation": "动画 / 游戏",
-    "typeElearning": "电子学习 / 培训",
+    "typeElearning": "在线课程 / 培训",
     "typeOther": "其他",
-    "sendButton": "发送消息",
-    "sending": "发送中...",
+    "sendButton": "发送留言",
+    "sending": "发送中……",
     "divider": "或",
-    "successTitle": "消息已发送！",
-    "successDesc": "我将尽快回复您。",
-    "successReset": "发送另一条消息",
-    "errorTitle": "出了点问题",
-    "errorDesc": "请重试或直接通过电子邮件联系。",
+    "successTitle": "留言已发送！",
+    "successDesc": "我会尽快回复您。",
+    "successReset": "再发送一条留言",
+    "errorTitle": "出现问题",
+    "errorDesc": "请重试，或直接给我发邮件。",
     "errorReset": "重试"
   },
   "LogoTicker": {
-    "badge": "官方出演",
-    "title": "这些是我出演的作品！",
-    "description": "这些是我有幸以官方身份参与配音的项目、创作者和制作公司。"
+    "badge": "官方作品",
+    "title": "看看我都参与过哪些作品！",
+    "description": "这些是我有幸正式献声的项目、创作者与工作室。"
   },
   "Footer": {
-    "copyright": "© 2026 Skryty_VA。保留所有权利。",
-    "contactEmail": "联系邮箱",
+    "copyright": "© 2026 Skryty_VA. 版权所有。",
+    "contactEmail": "邮箱地址",
     "phone": "电话",
-    "backToTop": "回到顶部",
+    "backToTop": "返回顶部",
     "language": "语言"
   },
   "SEO": {
-    "title": "Skryty | 专业配音演员",
-    "description": "提供商业广告、旁白、角色扮演和有声读物的专业配音服务。用情感与清晰度为您的剧本注入生命。",
+    "title": "Skryty | 专业配音艺术家",
+    "description": "专业配音服务：广告、旁白、配音与有声书。我以情感与清晰度，让您的文字鲜活起来。",
     "ogTitle": "Skryty - 配音作品集"
   },
   "Error": {
     "notFoundTitle": "页面未找到",
-    "notFoundDesc": "您寻找的页面不存在。",
-    "errorTitle": "出了点问题！",
-    "errorDesc": "发生意外错误。",
-    "backHome": "返回主页",
+    "notFoundDesc": "您要找的页面不存在。",
+    "errorTitle": "出现问题！",
+    "errorDesc": "发生了意外错误。",
+    "backHome": "返回首页",
     "tryAgain": "重试"
   },
   "AboutMe": {
     "title": "关于我",
-    "subtitle": "氛围背后的声音",
-    "description": "我是一名多才多艺、充满激情的配音演员，擅长为角色、品牌和旁白注入生命。凭借在麦克风前多年的经验，我培养出了像变色龙一般适应各种语调的能力——从温暖亲切的语气到权威考究的电影风格。我的目标很简单：让您的剧本与目标观众产生共鸣。",
-    "goalsTitle": "让我们合作吧！",
-    "goalsDesc": "我热切希望参与官方、专业配音项目，同时也欢迎业余项目。\n根据项目或需求不同，我既可以有偿工作，也可以免费合作。\n我还提供与客户免费联合导演会议——可远程进行，也可在客户选择的录音棚进行。\n欢迎随时联系我，期待我们的合作！",
-    "trait1": "专业工作室",
+    "subtitle": "为作品定调的声音",
+    "description": "我是一名多才多艺、满怀热情的配音演员，擅长为角色、品牌与旁白注入生命。多年来在麦克风前的历练，让我练就了瞬间切换音色的能力——从温暖亲切的对话感，到权威庄重的电影感。我的目标很简单：让您的文案打动它的受众，确保每一个字都精准落地。",
+    "goalsTitle": "让我们携手合作！",
+    "goalsDesc": "无论是官方的专业配音项目，还是业余项目，我都满怀热忱想要参与其中。\n根据项目情况或您的需求，我不仅可以有偿合作，也能够无偿协助。\n我还提供免费的与客户共同进行的导演把控环节，可远程进行，也可在客户指定的录音棚完成。\n欢迎随时与我联系——我已迫不及待想与您合作了！",
+    "trait1": "专业录音棚",
     "trait2": "快速交付",
-    "trait3": "音域宽广",
-    "trait4": "善于合作与被指导"
+    "trait3": "多变声线",
+    "trait4": "乐于接受指导"
   },
   "AudioDemos": {
-    "badge": "表演/配音作品集",
-    "title": "音频演示",
-    "subtitle": "纯粹声音，无需视频——让声音自己说话。",
+    "badge": "配音 / 旁白作品集",
+    "title": "音频样片",
+    "subtitle": "无视频的样本——纯粹的声音，纯粹的情感。",
     "demos": {
       "acting": {
-        "type": "表演演示",
-        "title": "表演演示",
-        "desc": "完整的情感色谱——从微妙张力到强烈戏剧。由角色和场景塑造的声音。"
+        "type": "演技样片",
+        "title": "演技样片",
+        "desc": "完整的情感谱系——从微妙的张力到激烈的戏剧冲突。声音随角色需求与场景氛围而量身调校。"
       },
       "audiobook": {
-        "type": "旁白演示",
-        "title": "旁白演示",
-        "desc": "温暖、具有说服力的音调——从第一秒起就吸引关注，使品牌难忘的声音。"
+        "type": "旁白样片",
+        "title": "旁白样片",
+        "desc": "温暖而富有说服力的音色——一种从第一秒就抓住注意力、让品牌令人难忘的声音。"
       },
       "commercial1": {
-        "type": "广告演示",
-        "title": "广告演示",
-        "desc": "充满活力的动态表现和清晰的发音。专为需要节奏、表现力和清晰度的广告执行而打造。"
+        "type": "广告样片",
+        "title": "广告样片",
+        "desc": "充满活力的动态与精准的吐字。专为讲求节奏、表现力与清晰度的广告片而打造。"
       },
       "commercial2": {
-        "type": "广告演示",
-        "title": "广告演示 2",
-        "desc": "充满活力的动态表现和清晰的发音。专为需要节奏、表现力和清晰度的广告执行而打造。"
+        "type": "广告样片",
+        "title": "广告样片 2",
+        "desc": "充满活力的动态与精准的吐字。专为讲求节奏、表现力与清晰度的广告片而打造。"
       }
     }
   }
