@@ -16,19 +16,19 @@ export default function StudioEquipment() {
   const equipmentList = [
     {
       id: "mic",
-      icon: <FiMic className="w-8 h-8 md:w-10 md:h-10 text-foreground" />,
+      icon: <FiMic className="w-8 h-8 md:w-10 md:h-10" />,
       title: t("mic"),
       desc: t("micDesc"),
     },
     {
       id: "interface",
-      icon: <FiSliders className="w-8 h-8 md:w-10 md:h-10 text-foreground" />,
+      icon: <FiSliders className="w-8 h-8 md:w-10 md:h-10" />,
       title: t("interface"),
       desc: t("interfaceDesc"),
     },
     {
       id: "daw",
-      icon: <FiMonitor className="w-8 h-8 md:w-10 md:h-10 text-foreground" />,
+      icon: <FiMonitor className="w-8 h-8 md:w-10 md:h-10" />,
       title: t("daw"),
       desc: t("dawDesc"),
     },
@@ -53,7 +53,7 @@ export default function StudioEquipment() {
 
 
   return (
-    <section id="about" ref={sectionRef} className="w-full py-16 md:py-24 px-4 sm:px-6 md:px-12 text-foreground relative z-20">
+    <section id="equipment" ref={sectionRef} className="w-full py-16 md:py-24 px-4 sm:px-6 md:px-12 text-foreground relative z-20">
       <div className="max-w-6xl mx-auto">
         <motion.div 
           className="text-center mb-12 md:mb-16 space-y-4"

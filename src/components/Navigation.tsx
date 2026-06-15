@@ -24,16 +24,21 @@ export default function Navigation() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // Close dropdown when clicking outside
+  // Close dropdown when clicking outside.
+  // Only applies to the desktop dropdown (the sole node dropdownRef tracks);
+  // the mobile language grid is toggled explicitly inside the full-screen menu,
+  // so we skip the handler while that menu is open to avoid a mousedown/onClick
+  // race that made the grid flicker / refuse to close.
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
+      if (isMobileMenuOpen) return;
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
         setIsLangDropdownOpen(false);
       }
     };
     document.addEventListener("mousedown", handleClickOutside);
     return () => document.removeEventListener("mousedown", handleClickOutside);
-  }, []);
+  }, [isMobileMenuOpen]);
 
   // Lock body scroll when mobile menu is open
   useEffect(() => {
@@ -86,7 +91,7 @@ export default function Navigation() {
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center relative min-h-[44px]">
 
           {/* Desktop Navigation (Floating Pill) */}
-          <div className="hidden md:flex items-center justify-center">
+          <div className="hidden lg:flex items-center justify-center">
             <ul className="flex items-center gap-8 bg-white/5 backdrop-blur-md px-8 py-3 rounded-full border border-white/10 shadow-[0_4px_30px_rgba(0,0,0,0.1)]">
               {navLinks.map((link) => (
                 <li key={link.href}>
@@ -105,7 +110,7 @@ export default function Navigation() {
           {/* Utilities - Absolute Right */}
           <div className="absolute right-4 sm:right-6 lg:right-8 flex items-center gap-4">
             {/* Desktop Language Dropdown */}
-            <div className="hidden md:block relative" ref={dropdownRef}>
+            <div className="hidden lg:block relative" ref={dropdownRef}>
               <button
                 onClick={() => setIsLangDropdownOpen(!isLangDropdownOpen)}
                 className="flex items-center gap-2 px-4 py-2 bg-white/5 hover:bg-white/10 rounded-full border border-white/10 text-xs font-bold transition-all text-zinc-300 hover:text-white"
@@ -149,7 +154,7 @@ export default function Navigation() {
 
             {/* Mobile: hamburger button */}
             <button
-              className="md:hidden flex items-center justify-center w-11 h-11 rounded-xl text-white hover:bg-white/10 transition-colors"
+              className="lg:hidden flex items-center justify-center w-11 h-11 rounded-xl text-white hover:bg-white/10 transition-colors"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               aria-label="Toggle navigation menu"
               aria-expanded={isMobileMenuOpen}
@@ -168,7 +173,7 @@ export default function Navigation() {
 
       {/* ─── Full-Screen Mobile Overlay ─── */}
       <div
-        className={`fixed inset-0 z-40 md:hidden flex flex-col transition-all duration-300 ease-out ${
+        className={`fixed inset-0 z-40 lg:hidden flex flex-col transition-all duration-300 ease-out ${
           isMobileMenuOpen
             ? "opacity-100 pointer-events-auto"
             : "opacity-0 pointer-events-none"

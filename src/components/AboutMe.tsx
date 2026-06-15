@@ -31,7 +31,7 @@ export default function AboutMe() {
               {t('title')}
             </motion.h2>
             <motion.h3 
-              className="text-xl md:text-2xl font-medium text-accent mb-6 shadow-sm drop-shadow-[0_0_8px_hsla(var(--accent),0.5)]"
+              className="text-xl md:text-2xl font-medium text-accent mb-6 shadow-sm drop-shadow-[0_0_8px_hsl(var(--accent)_/_0.5)]"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
@@ -66,7 +66,7 @@ export default function AboutMe() {
             
             <div className="relative z-10">
               <h4 className="text-xl font-bold text-foreground mb-3 flex items-center gap-3">
-                <span className="w-8 h-[2px] bg-accent inline-block shadow-[0_0_8px_hsla(var(--accent),0.8)]"></span>
+                <span className="w-8 h-[2px] bg-accent inline-block shadow-[0_0_8px_hsl(var(--accent)_/_0.8)]"></span>
                 {t('goalsTitle')}
               </h4>
               <p className="text-muted-foreground leading-relaxed group-hover:text-foreground/90 transition-colors">

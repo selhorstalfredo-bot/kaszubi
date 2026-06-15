@@ -32,11 +32,11 @@ function GlowCard({
         transition={{ delay: delay + 0.3, duration: 0.8 }}
         style={{
           background: featured
-            ? "linear-gradient(135deg, hsla(var(--accent), 0.5) 0%, transparent 50%, rgba(168,85,247,0.3) 100%)"
+            ? "linear-gradient(135deg, hsl(var(--accent) / 0.5) 0%, transparent 50%, rgba(168,85,247,0.3) 100%)"
             : "linear-gradient(135deg, rgba(255,255,255,0.08) 0%, transparent 50%, rgba(255,255,255,0.03) 100%)",
           padding: "1.5px",
           mask: "linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0)",
-          maskComposite: "xor",
+          maskComposite: "exclude",
           WebkitMaskComposite: "xor",
         }}
       />
@@ -105,7 +105,7 @@ export default function PortfolioGrid() {
                 <div className="flex flex-col h-full min-h-[220px]">
                   <div
                     className={`inline-flex items-center justify-center p-3 rounded-xl mb-4 transition-colors ${card.accent
-                        ? "bg-accent/20 text-accent shadow-[0_0_15px_hsla(var(--accent),0.3)]"
+                        ? "bg-accent/20 text-accent shadow-[0_0_15px_hsl(var(--accent)_/_0.3)]"
                         : "bg-white/5 text-foreground group-hover:bg-foreground group-hover:text-background"
                       }`}
                   >

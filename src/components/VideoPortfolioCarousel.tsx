@@ -14,15 +14,15 @@ const CAROUSEL_DATA = [
   },
   {
     id: 2,
-    key: "aventurine",
-    pl: "https://youtu.be/wF1tjNPKSEc",
-    eng: "https://youtu.be/mjVmNaWncJU"
-  },
-  {
-    id: 3,
     key: "transformers_one",
     pl: "https://youtu.be/LgaJQUbig-w",
     eng: "https://youtu.be/AjLwUCeUtP8"
+  },
+  {
+    id: 3,
+    key: "aventurine",
+    pl: "https://youtu.be/wF1tjNPKSEc",
+    eng: "https://youtu.be/mjVmNaWncJU"
   },
   {
     id: 4,
@@ -115,7 +115,7 @@ export default function VideoPortfolioCarousel() {
           {/* Desktop Left Arrow — absolutely pinned to outer wrapper center */}
           <button
             onClick={prevSlide}
-            className="hidden lg:flex absolute left-[-4rem] top-[200px] -translate-y-1/2 z-10 w-12 h-12 items-center justify-center rounded-full bg-white/5 border border-white/10 text-white hover:bg-emerald-500 hover:border-emerald-500 transition-all duration-300"
+            className="hidden lg:flex absolute left-[-4rem] top-1/2 -translate-y-1/2 z-10 w-12 h-12 items-center justify-center rounded-full bg-white/5 border border-white/10 text-white hover:bg-emerald-500 hover:border-emerald-500 transition-all duration-300"
             aria-label="Previous slide"
           >
             <FiChevronLeft size={24} />
@@ -274,7 +274,7 @@ export default function VideoPortfolioCarousel() {
           {/* Desktop Right Arrow — absolutely pinned to outer wrapper center */}
           <button
             onClick={nextSlide}
-            className="hidden lg:flex absolute right-[-4rem] top-[200px] -translate-y-1/2 z-10 w-12 h-12 items-center justify-center rounded-full bg-white/5 border border-white/10 text-white hover:bg-emerald-500 hover:border-emerald-500 transition-all duration-300"
+            className="hidden lg:flex absolute right-[-4rem] top-1/2 -translate-y-1/2 z-10 w-12 h-12 items-center justify-center rounded-full bg-white/5 border border-white/10 text-white hover:bg-emerald-500 hover:border-emerald-500 transition-all duration-300"
             aria-label="Next slide"
           >
             <FiChevronRight size={24} />

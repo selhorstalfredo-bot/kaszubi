@@ -9,7 +9,7 @@ function SplitText({ text, className = "" }: { text: string; className?: string 
   return (
     <span className={className} aria-label={text}>
       {words.map((word, wordIndex) => (
-        <span key={wordIndex} className="inline-block overflow-hidden mr-[0.3em]">
+        <span key={wordIndex} className="inline-block overflow-hidden mr-[0.3em] pb-[0.2em] -mb-[0.2em]">
           <motion.span
             className="inline-block"
             initial={{ y: "110%", rotateX: -80 }}
@@ -67,7 +67,7 @@ export default function Hero() {
         onClick={() => {
           document.getElementById('portfolio')?.scrollIntoView({ behavior: 'smooth' });
         }}
-        className="mt-8 px-10 py-5 bg-accent text-accent-foreground font-bold text-lg rounded-2xl transition-all duration-300 shadow-[0_0_30px_hsla(var(--accent),0.4)] hover:shadow-[0_0_50px_hsla(var(--accent),0.7)] hover:bg-emerald-400"
+        className="mt-8 px-10 py-5 bg-accent text-accent-foreground font-bold text-lg rounded-2xl transition-all duration-300 shadow-[0_0_30px_hsl(var(--accent)_/_0.4)] hover:shadow-[0_0_50px_hsl(var(--accent)_/_0.7)] hover:bg-emerald-400"
         data-cursor-hover
       >
         {t("description")}

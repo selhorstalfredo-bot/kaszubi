@@ -12,18 +12,23 @@ export default function CustomCursor() {
 
 
   const [isMounted, setIsMounted] = useState(false);
-  const [isTouchDevice, setIsTouchDevice] = useState(false);
+  const [hasFinePointer, setHasFinePointer] = useState(false);
 
+  // Enable the custom cursor only on devices with a precise pointer + hover
+  // (a real mouse/trackpad). Phones and tablets report (pointer: coarse) /
+  // (hover: none), so they keep the native touch behaviour and the cursor is
+  // never rendered or hidden there.
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setIsMounted(true);
-      setIsTouchDevice("ontouchstart" in window || navigator.maxTouchPoints > 0);
-    }, 0);
-    return () => clearTimeout(timer);
+    setIsMounted(true);
+    const mq = window.matchMedia("(hover: hover) and (pointer: fine)");
+    const update = () => setHasFinePointer(mq.matches);
+    update();
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
   }, []);
 
   useEffect(() => {
-    if (!isMounted || isTouchDevice) return;
+    if (!isMounted || !hasFinePointer) return;
 
     const moveCursor = (e: MouseEvent) => {
       cursorX.set(e.clientX);
@@ -43,15 +48,15 @@ export default function CustomCursor() {
       window.removeEventListener("mousemove", moveCursor);
       window.removeEventListener("mouseover", handleMouseOver);
     };
-  }, [isMounted, isTouchDevice, cursorX, cursorY]);
+  }, [isMounted, hasFinePointer, cursorX, cursorY]);
 
-  if (!isMounted || isTouchDevice) return null;
+  if (!isMounted || !hasFinePointer) return null;
 
   return (
     <div ref={containerRef}>
       {/* Hide native cursor globally */}
       <style jsx global>{`
-        @media (pointer: fine) {
+        @media (hover: hover) and (pointer: fine) {
           *, *::before, *::after {
             cursor: none !important;
           }
